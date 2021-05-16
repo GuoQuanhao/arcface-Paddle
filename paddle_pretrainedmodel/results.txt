@@ -1,0 +1,71 @@
+**iresnet18**
+infer time 8.382002999999992
+[lfw][1]XNorm: 23.101908
+[lfw][1]Accuracy-Flip: 0.99667+-0.00247
+[lfw][1]Accuracy-Highest: 0.99667
+testing verification..
+(12000, 512)
+infer time 8.573465000000002
+[cplfw][1]XNorm: 19.288380
+[cplfw][1]Accuracy-Flip: 0.90950+-0.01225
+[cplfw][1]Accuracy-Highest: 0.90950
+testing verification..
+(12000, 512)
+infer time 8.301538999999995
+[calfw][1]XNorm: 22.986098
+[calfw][1]Accuracy-Flip: 0.95800+-0.01027
+[calfw][1]Accuracy-Highest: 0.95800
+
+**iresnet34**
+infer time 11.411602999999996
+[lfw][1]XNorm: 22.583450
+[lfw][1]Accuracy-Flip: 0.99750+-0.00261
+[lfw][1]Accuracy-Highest: 0.99750
+testing verification..
+(12000, 512)
+infer time 12.848458000000011
+[cplfw][1]XNorm: 21.064080
+[cplfw][1]Accuracy-Flip: 0.92417+-0.01311
+[cplfw][1]Accuracy-Highest: 0.92417
+testing verification..
+(12000, 512)
+infer time 18.44375
+[calfw][1]XNorm: 22.070050
+[calfw][1]Accuracy-Flip: 0.95950+-0.01090
+[calfw][1]Accuracy-Highest: 0.95950
+
+**iresnet50**
+[lfw][1]XNorm: 22.503836
+[lfw][1]Accuracy-Flip: 0.99800+-0.00245
+[lfw][1]Accuracy-Highest: 0.99800
+testing verification..
+(12000, 512)
+infer time 14.611842999999993
+[cplfw][1]XNorm: 22.081895
+[cplfw][1]Accuracy-Flip: 0.92867+-0.01103
+[cplfw][1]Accuracy-Highest: 0.92867
+testing verification..
+(12000, 512)
+infer time 14.449223000000003
+[calfw][1]XNorm: 21.836912
+[calfw][1]Accuracy-Flip: 0.96017+-0.01180
+[calfw][1]Accuracy-Highest: 0.96017
+
+**iresnet100**
+infer time 26.452709000000002
+[lfw][1]XNorm: 22.305714
+[lfw][1]Accuracy-Flip: 0.99817+-0.00252
+[lfw][1]Accuracy-Highest: 0.99817
+testing verification..
+(12000, 512)
+infer time 26.78985899999998
+[cplfw][1]XNorm: 22.771720
+[cplfw][1]Accuracy-Flip: 0.93150+-0.01172
+[cplfw][1]Accuracy-Highest: 0.93150
+testing verification..
+(12000, 512)
+infer time 26.547123000000003
+[calfw][1]XNorm: 21.365641
+[calfw][1]Accuracy-Flip: 0.96133+-0.01149
+[calfw][1]Accuracy-Highest: 0.96133
+

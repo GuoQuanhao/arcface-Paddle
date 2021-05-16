@@ -1,0 +1,1012 @@
+[INFO 2021-05-05 01:49:31,903 utils_callbacks.py:90] Speed 298.04 samples/sec   Loss 2.1280   Epoch: 13   Global Step: 154400   Required: 14 hours
+2021-05-05 01:52:22,872 - INFO - Speed 299.47 samples/sec   Loss 2.1537   Epoch: 13   Global Step: 154500   Required: 14 hours
+[INFO 2021-05-05 01:52:22,872 utils_callbacks.py:90] Speed 299.47 samples/sec   Loss 2.1537   Epoch: 13   Global Step: 154500   Required: 14 hours
+2021-05-05 01:55:13,758 - INFO - Speed 299.62 samples/sec   Loss 2.2011   Epoch: 13   Global Step: 154600   Required: 14 hours
+[INFO 2021-05-05 01:55:13,758 utils_callbacks.py:90] Speed 299.62 samples/sec   Loss 2.2011   Epoch: 13   Global Step: 154600   Required: 14 hours
+2021-05-05 01:58:04,145 - INFO - Speed 300.50 samples/sec   Loss 2.1631   Epoch: 13   Global Step: 154700   Required: 14 hours
+[INFO 2021-05-05 01:58:04,145 utils_callbacks.py:90] Speed 300.50 samples/sec   Loss 2.1631   Epoch: 13   Global Step: 154700   Required: 14 hours
+2021-05-05 02:00:55,666 - INFO - Speed 298.51 samples/sec   Loss 2.1692   Epoch: 13   Global Step: 154800   Required: 14 hours
+[INFO 2021-05-05 02:00:55,666 utils_callbacks.py:90] Speed 298.51 samples/sec   Loss 2.1692   Epoch: 13   Global Step: 154800   Required: 14 hours
+2021-05-05 02:03:47,364 - INFO - Speed 298.20 samples/sec   Loss 2.1593   Epoch: 13   Global Step: 154900   Required: 14 hours
+[INFO 2021-05-05 02:03:47,364 utils_callbacks.py:90] Speed 298.20 samples/sec   Loss 2.1593   Epoch: 13   Global Step: 154900   Required: 14 hours
+2021-05-05 02:06:38,062 - INFO - Speed 299.95 samples/sec   Loss 2.1643   Epoch: 13   Global Step: 155000   Required: 14 hours
+[INFO 2021-05-05 02:06:38,062 utils_callbacks.py:90] Speed 299.95 samples/sec   Loss 2.1643   Epoch: 13   Global Step: 155000   Required: 14 hours
+2021-05-05 02:09:29,424 - INFO - Speed 298.79 samples/sec   Loss 2.1572   Epoch: 13   Global Step: 155100   Required: 14 hours
+[INFO 2021-05-05 02:09:29,424 utils_callbacks.py:90] Speed 298.79 samples/sec   Loss 2.1572   Epoch: 13   Global Step: 155100   Required: 14 hours
+2021-05-05 02:12:20,569 - INFO - Speed 299.17 samples/sec   Loss 2.1366   Epoch: 13   Global Step: 155200   Required: 13 hours
+[INFO 2021-05-05 02:12:20,569 utils_callbacks.py:90] Speed 299.17 samples/sec   Loss 2.1366   Epoch: 13   Global Step: 155200   Required: 13 hours
+2021-05-05 02:15:11,265 - INFO - Speed 299.95 samples/sec   Loss 2.2075   Epoch: 13   Global Step: 155300   Required: 13 hours
+[INFO 2021-05-05 02:15:11,265 utils_callbacks.py:90] Speed 299.95 samples/sec   Loss 2.2075   Epoch: 13   Global Step: 155300   Required: 13 hours
+2021-05-05 02:18:02,372 - INFO - Speed 299.23 samples/sec   Loss 2.1383   Epoch: 13   Global Step: 155400   Required: 13 hours
+[INFO 2021-05-05 02:18:02,372 utils_callbacks.py:90] Speed 299.23 samples/sec   Loss 2.1383   Epoch: 13   Global Step: 155400   Required: 13 hours
+2021-05-05 02:20:53,270 - INFO - Speed 299.60 samples/sec   Loss 2.1578   Epoch: 13   Global Step: 155500   Required: 13 hours
+[INFO 2021-05-05 02:20:53,270 utils_callbacks.py:90] Speed 299.60 samples/sec   Loss 2.1578   Epoch: 13   Global Step: 155500   Required: 13 hours
+2021-05-05 02:23:44,560 - INFO - Speed 298.91 samples/sec   Loss 2.1929   Epoch: 13   Global Step: 155600   Required: 13 hours
+[INFO 2021-05-05 02:23:44,560 utils_callbacks.py:90] Speed 298.91 samples/sec   Loss 2.1929   Epoch: 13   Global Step: 155600   Required: 13 hours
+2021-05-05 02:26:35,623 - INFO - Speed 299.31 samples/sec   Loss 2.1653   Epoch: 13   Global Step: 155700   Required: 13 hours
+[INFO 2021-05-05 02:26:35,623 utils_callbacks.py:90] Speed 299.31 samples/sec   Loss 2.1653   Epoch: 13   Global Step: 155700   Required: 13 hours
+2021-05-05 02:29:26,651 - INFO - Speed 299.37 samples/sec   Loss 2.1834   Epoch: 13   Global Step: 155800   Required: 13 hours
+[INFO 2021-05-05 02:29:26,651 utils_callbacks.py:90] Speed 299.37 samples/sec   Loss 2.1834   Epoch: 13   Global Step: 155800   Required: 13 hours
+2021-05-05 02:32:17,222 - INFO - Speed 300.17 samples/sec   Loss 2.1791   Epoch: 13   Global Step: 155900   Required: 13 hours
+[INFO 2021-05-05 02:32:17,222 utils_callbacks.py:90] Speed 300.17 samples/sec   Loss 2.1791   Epoch: 13   Global Step: 155900   Required: 13 hours
+2021-05-05 02:35:07,997 - INFO - Speed 299.81 samples/sec   Loss 2.1674   Epoch: 13   Global Step: 156000   Required: 13 hours
+[INFO 2021-05-05 02:35:07,997 utils_callbacks.py:90] Speed 299.81 samples/sec   Loss 2.1674   Epoch: 13   Global Step: 156000   Required: 13 hours
+testing verification..
+(12000, 512)
+infer time 74.76002600000007
+2021-05-05 02:36:26,149 - INFO - [lfw][156000]XNorm: 4.807480
+[INFO 2021-05-05 02:36:26,149 utils_callbacks.py:31] [lfw][156000]XNorm: 4.807480
+2021-05-05 02:36:26,149 - INFO - [lfw][156000]Accuracy-Flip: 0.99733+-0.00291
+[INFO 2021-05-05 02:36:26,149 utils_callbacks.py:32] [lfw][156000]Accuracy-Flip: 0.99733+-0.00291
+2021-05-05 02:36:26,149 - INFO - [lfw][156000]Accuracy-Highest: 0.99750
+[INFO 2021-05-05 02:36:26,149 utils_callbacks.py:35] [lfw][156000]Accuracy-Highest: 0.99750
+testing verification..
+(12000, 512)
+infer time 73.93755800000004
+2021-05-05 02:37:43,790 - INFO - [cplfw][156000]XNorm: 4.547377
+[INFO 2021-05-05 02:37:43,790 utils_callbacks.py:31] [cplfw][156000]XNorm: 4.547377
+2021-05-05 02:37:43,791 - INFO - [cplfw][156000]Accuracy-Flip: 0.92067+-0.01232
+[INFO 2021-05-05 02:37:43,791 utils_callbacks.py:32] [cplfw][156000]Accuracy-Flip: 0.92067+-0.01232
+2021-05-05 02:37:43,791 - INFO - [cplfw][156000]Accuracy-Highest: 0.92233
+[INFO 2021-05-05 02:37:43,791 utils_callbacks.py:35] [cplfw][156000]Accuracy-Highest: 0.92233
+testing verification..
+(12000, 512)
+infer time 73.78461200000002
+2021-05-05 02:39:01,295 - INFO - [calfw][156000]XNorm: 4.784801
+[INFO 2021-05-05 02:39:01,295 utils_callbacks.py:31] [calfw][156000]XNorm: 4.784801
+2021-05-05 02:39:01,296 - INFO - [calfw][156000]Accuracy-Flip: 0.95967+-0.01137
+[INFO 2021-05-05 02:39:01,296 utils_callbacks.py:32] [calfw][156000]Accuracy-Flip: 0.95967+-0.01137
+2021-05-05 02:39:01,296 - INFO - [calfw][156000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 02:39:01,296 utils_callbacks.py:35] [calfw][156000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 02:41:49,260 - INFO - Speed 127.60 samples/sec   Loss 2.1754   Epoch: 13   Global Step: 156100   Required: 13 hours
+[INFO 2021-05-05 02:41:49,260 utils_callbacks.py:90] Speed 127.60 samples/sec   Loss 2.1754   Epoch: 13   Global Step: 156100   Required: 13 hours
+2021-05-05 02:44:39,916 - INFO - Speed 300.02 samples/sec   Loss 2.1857   Epoch: 13   Global Step: 156200   Required: 13 hours
+[INFO 2021-05-05 02:44:39,916 utils_callbacks.py:90] Speed 300.02 samples/sec   Loss 2.1857   Epoch: 13   Global Step: 156200   Required: 13 hours
+2021-05-05 02:47:31,014 - INFO - Speed 299.25 samples/sec   Loss 2.1561   Epoch: 13   Global Step: 156300   Required: 13 hours
+[INFO 2021-05-05 02:47:31,014 utils_callbacks.py:90] Speed 299.25 samples/sec   Loss 2.1561   Epoch: 13   Global Step: 156300   Required: 13 hours
+2021-05-05 02:50:22,054 - INFO - Speed 299.35 samples/sec   Loss 2.1474   Epoch: 13   Global Step: 156400   Required: 13 hours
+[INFO 2021-05-05 02:50:22,054 utils_callbacks.py:90] Speed 299.35 samples/sec   Loss 2.1474   Epoch: 13   Global Step: 156400   Required: 13 hours
+2021-05-05 02:53:12,154 - INFO - Speed 301.00 samples/sec   Loss 2.1749   Epoch: 13   Global Step: 156500   Required: 13 hours
+[INFO 2021-05-05 02:53:12,154 utils_callbacks.py:90] Speed 301.00 samples/sec   Loss 2.1749   Epoch: 13   Global Step: 156500   Required: 13 hours
+2021-05-05 02:56:02,337 - INFO - Speed 300.86 samples/sec   Loss 2.1677   Epoch: 13   Global Step: 156600   Required: 13 hours
+[INFO 2021-05-05 02:56:02,337 utils_callbacks.py:90] Speed 300.86 samples/sec   Loss 2.1677   Epoch: 13   Global Step: 156600   Required: 13 hours
+2021-05-05 02:58:53,556 - INFO - Speed 299.03 samples/sec   Loss 2.2054   Epoch: 13   Global Step: 156700   Required: 13 hours
+[INFO 2021-05-05 02:58:53,556 utils_callbacks.py:90] Speed 299.03 samples/sec   Loss 2.2054   Epoch: 13   Global Step: 156700   Required: 13 hours
+2021-05-05 03:01:44,821 - INFO - Speed 298.96 samples/sec   Loss 2.1687   Epoch: 13   Global Step: 156800   Required: 13 hours
+[INFO 2021-05-05 03:01:44,821 utils_callbacks.py:90] Speed 298.96 samples/sec   Loss 2.1687   Epoch: 13   Global Step: 156800   Required: 13 hours
+2021-05-05 03:04:35,969 - INFO - Speed 299.16 samples/sec   Loss 2.1680   Epoch: 13   Global Step: 156900   Required: 13 hours
+[INFO 2021-05-05 03:04:35,969 utils_callbacks.py:90] Speed 299.16 samples/sec   Loss 2.1680   Epoch: 13   Global Step: 156900   Required: 13 hours
+2021-05-05 03:07:27,121 - INFO - Speed 299.15 samples/sec   Loss 2.1625   Epoch: 13   Global Step: 157000   Required: 13 hours
+[INFO 2021-05-05 03:07:27,121 utils_callbacks.py:90] Speed 299.15 samples/sec   Loss 2.1625   Epoch: 13   Global Step: 157000   Required: 13 hours
+2021-05-05 03:10:18,297 - INFO - Speed 299.11 samples/sec   Loss 2.1791   Epoch: 13   Global Step: 157100   Required: 13 hours
+[INFO 2021-05-05 03:10:18,297 utils_callbacks.py:90] Speed 299.11 samples/sec   Loss 2.1791   Epoch: 13   Global Step: 157100   Required: 13 hours
+2021-05-05 03:13:07,891 - INFO - Speed 301.90 samples/sec   Loss 2.1719   Epoch: 13   Global Step: 157200   Required: 12 hours
+[INFO 2021-05-05 03:13:07,891 utils_callbacks.py:90] Speed 301.90 samples/sec   Loss 2.1719   Epoch: 13   Global Step: 157200   Required: 12 hours
+2021-05-05 03:15:58,825 - INFO - Speed 299.53 samples/sec   Loss 2.1670   Epoch: 13   Global Step: 157300   Required: 12 hours
+[INFO 2021-05-05 03:15:58,825 utils_callbacks.py:90] Speed 299.53 samples/sec   Loss 2.1670   Epoch: 13   Global Step: 157300   Required: 12 hours
+2021-05-05 03:18:49,832 - INFO - Speed 299.41 samples/sec   Loss 2.1963   Epoch: 13   Global Step: 157400   Required: 12 hours
+[INFO 2021-05-05 03:18:49,832 utils_callbacks.py:90] Speed 299.41 samples/sec   Loss 2.1963   Epoch: 13   Global Step: 157400   Required: 12 hours
+2021-05-05 03:21:40,277 - INFO - Speed 300.39 samples/sec   Loss 2.1773   Epoch: 13   Global Step: 157500   Required: 12 hours
+[INFO 2021-05-05 03:21:40,277 utils_callbacks.py:90] Speed 300.39 samples/sec   Loss 2.1773   Epoch: 13   Global Step: 157500   Required: 12 hours
+2021-05-05 03:24:30,960 - INFO - Speed 299.98 samples/sec   Loss 2.1857   Epoch: 13   Global Step: 157600   Required: 12 hours
+[INFO 2021-05-05 03:24:30,960 utils_callbacks.py:90] Speed 299.98 samples/sec   Loss 2.1857   Epoch: 13   Global Step: 157600   Required: 12 hours
+2021-05-05 03:27:21,563 - INFO - Speed 300.12 samples/sec   Loss 2.1876   Epoch: 13   Global Step: 157700   Required: 12 hours
+[INFO 2021-05-05 03:27:21,563 utils_callbacks.py:90] Speed 300.12 samples/sec   Loss 2.1876   Epoch: 13   Global Step: 157700   Required: 12 hours
+2021-05-05 03:30:12,661 - INFO - Speed 299.25 samples/sec   Loss 2.1710   Epoch: 13   Global Step: 157800   Required: 12 hours
+[INFO 2021-05-05 03:30:12,661 utils_callbacks.py:90] Speed 299.25 samples/sec   Loss 2.1710   Epoch: 13   Global Step: 157800   Required: 12 hours
+2021-05-05 03:33:04,525 - INFO - Speed 297.91 samples/sec   Loss 2.1531   Epoch: 13   Global Step: 157900   Required: 12 hours
+[INFO 2021-05-05 03:33:04,525 utils_callbacks.py:90] Speed 297.91 samples/sec   Loss 2.1531   Epoch: 13   Global Step: 157900   Required: 12 hours
+2021-05-05 03:35:55,868 - INFO - Speed 298.82 samples/sec   Loss 2.2100   Epoch: 13   Global Step: 158000   Required: 12 hours
+[INFO 2021-05-05 03:35:55,868 utils_callbacks.py:90] Speed 298.82 samples/sec   Loss 2.2100   Epoch: 13   Global Step: 158000   Required: 12 hours
+testing verification..
+(12000, 512)
+infer time 74.9217300000001
+2021-05-05 03:37:14,178 - INFO - [lfw][158000]XNorm: 4.828793
+[INFO 2021-05-05 03:37:14,178 utils_callbacks.py:31] [lfw][158000]XNorm: 4.828793
+2021-05-05 03:37:14,179 - INFO - [lfw][158000]Accuracy-Flip: 0.99750+-0.00318
+[INFO 2021-05-05 03:37:14,179 utils_callbacks.py:32] [lfw][158000]Accuracy-Flip: 0.99750+-0.00318
+2021-05-05 03:37:14,179 - INFO - [lfw][158000]Accuracy-Highest: 0.99750
+[INFO 2021-05-05 03:37:14,179 utils_callbacks.py:35] [lfw][158000]Accuracy-Highest: 0.99750
+testing verification..
+(12000, 512)
+infer time 73.15238299999996
+2021-05-05 03:38:31,036 - INFO - [cplfw][158000]XNorm: 4.598251
+[INFO 2021-05-05 03:38:31,036 utils_callbacks.py:31] [cplfw][158000]XNorm: 4.598251
+2021-05-05 03:38:31,036 - INFO - [cplfw][158000]Accuracy-Flip: 0.92167+-0.01406
+[INFO 2021-05-05 03:38:31,036 utils_callbacks.py:32] [cplfw][158000]Accuracy-Flip: 0.92167+-0.01406
+2021-05-05 03:38:31,036 - INFO - [cplfw][158000]Accuracy-Highest: 0.92233
+[INFO 2021-05-05 03:38:31,036 utils_callbacks.py:35] [cplfw][158000]Accuracy-Highest: 0.92233
+testing verification..
+(12000, 512)
+infer time 72.73008100000011
+2021-05-05 03:39:47,459 - INFO - [calfw][158000]XNorm: 4.804494
+[INFO 2021-05-05 03:39:47,459 utils_callbacks.py:31] [calfw][158000]XNorm: 4.804494
+2021-05-05 03:39:47,460 - INFO - [calfw][158000]Accuracy-Flip: 0.95967+-0.01142
+[INFO 2021-05-05 03:39:47,460 utils_callbacks.py:32] [calfw][158000]Accuracy-Flip: 0.95967+-0.01142
+2021-05-05 03:39:47,460 - INFO - [calfw][158000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 03:39:47,460 utils_callbacks.py:35] [calfw][158000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 03:42:35,234 - INFO - Speed 128.20 samples/sec   Loss 2.1870   Epoch: 13   Global Step: 158100   Required: 12 hours
+[INFO 2021-05-05 03:42:35,234 utils_callbacks.py:90] Speed 128.20 samples/sec   Loss 2.1870   Epoch: 13   Global Step: 158100   Required: 12 hours
+2021-05-05 03:45:25,948 - INFO - Speed 299.92 samples/sec   Loss 2.1795   Epoch: 13   Global Step: 158200   Required: 12 hours
+[INFO 2021-05-05 03:45:25,948 utils_callbacks.py:90] Speed 299.92 samples/sec   Loss 2.1795   Epoch: 13   Global Step: 158200   Required: 12 hours
+2021-05-05 03:48:17,307 - INFO - Speed 298.79 samples/sec   Loss 2.1160   Epoch: 13   Global Step: 158300   Required: 12 hours
+[INFO 2021-05-05 03:48:17,307 utils_callbacks.py:90] Speed 298.79 samples/sec   Loss 2.1160   Epoch: 13   Global Step: 158300   Required: 12 hours
+2021-05-05 03:51:07,769 - INFO - Speed 300.36 samples/sec   Loss 2.1710   Epoch: 13   Global Step: 158400   Required: 12 hours
+[INFO 2021-05-05 03:51:07,769 utils_callbacks.py:90] Speed 300.36 samples/sec   Loss 2.1710   Epoch: 13   Global Step: 158400   Required: 12 hours
+2021-05-05 03:53:59,113 - INFO - Speed 298.82 samples/sec   Loss 2.1848   Epoch: 13   Global Step: 158500   Required: 12 hours
+[INFO 2021-05-05 03:53:59,113 utils_callbacks.py:90] Speed 298.82 samples/sec   Loss 2.1848   Epoch: 13   Global Step: 158500   Required: 12 hours
+2021-05-05 03:56:49,949 - INFO - Speed 299.71 samples/sec   Loss 2.1142   Epoch: 13   Global Step: 158600   Required: 12 hours
+[INFO 2021-05-05 03:56:49,949 utils_callbacks.py:90] Speed 299.71 samples/sec   Loss 2.1142   Epoch: 13   Global Step: 158600   Required: 12 hours
+2021-05-05 03:59:40,744 - INFO - Speed 299.78 samples/sec   Loss 2.2039   Epoch: 13   Global Step: 158700   Required: 12 hours
+[INFO 2021-05-05 03:59:40,744 utils_callbacks.py:90] Speed 299.78 samples/sec   Loss 2.2039   Epoch: 13   Global Step: 158700   Required: 12 hours
+2021-05-05 04:02:31,883 - INFO - Speed 299.17 samples/sec   Loss 2.1468   Epoch: 13   Global Step: 158800   Required: 12 hours
+[INFO 2021-05-05 04:02:31,883 utils_callbacks.py:90] Speed 299.17 samples/sec   Loss 2.1468   Epoch: 13   Global Step: 158800   Required: 12 hours
+2021-05-05 04:05:23,196 - INFO - Speed 298.87 samples/sec   Loss 2.1767   Epoch: 13   Global Step: 158900   Required: 12 hours
+[INFO 2021-05-05 04:05:23,196 utils_callbacks.py:90] Speed 298.87 samples/sec   Loss 2.1767   Epoch: 13   Global Step: 158900   Required: 12 hours
+2021-05-05 04:08:14,077 - INFO - Speed 299.63 samples/sec   Loss 2.1568   Epoch: 13   Global Step: 159000   Required: 12 hours
+[INFO 2021-05-05 04:08:14,077 utils_callbacks.py:90] Speed 299.63 samples/sec   Loss 2.1568   Epoch: 13   Global Step: 159000   Required: 12 hours
+2021-05-05 04:11:04,355 - INFO - Speed 300.69 samples/sec   Loss 2.1514   Epoch: 13   Global Step: 159100   Required: 12 hours
+[INFO 2021-05-05 04:11:04,355 utils_callbacks.py:90] Speed 300.69 samples/sec   Loss 2.1514   Epoch: 13   Global Step: 159100   Required: 12 hours
+2021-05-05 04:13:55,301 - INFO - Speed 299.51 samples/sec   Loss 2.1218   Epoch: 13   Global Step: 159200   Required: 11 hours
+[INFO 2021-05-05 04:13:55,301 utils_callbacks.py:90] Speed 299.51 samples/sec   Loss 2.1218   Epoch: 13   Global Step: 159200   Required: 11 hours
+Epoch 14: LambdaDecay set learning rate to 0.0010000000000000002.
+Epoch 14: LambdaDecay set learning rate to 0.0010000000000000002.
+2021-05-05 04:16:51,080 - INFO - Speed 291.28 samples/sec   Loss 2.0917   Epoch: 14   Global Step: 159300   Required: 11 hours
+[INFO 2021-05-05 04:16:51,080 utils_callbacks.py:90] Speed 291.28 samples/sec   Loss 2.0917   Epoch: 14   Global Step: 159300   Required: 11 hours
+2021-05-05 04:19:42,040 - INFO - Speed 299.49 samples/sec   Loss 2.0377   Epoch: 14   Global Step: 159400   Required: 11 hours
+[INFO 2021-05-05 04:19:42,040 utils_callbacks.py:90] Speed 299.49 samples/sec   Loss 2.0377   Epoch: 14   Global Step: 159400   Required: 11 hours
+2021-05-05 04:22:32,741 - INFO - Speed 299.94 samples/sec   Loss 2.0803   Epoch: 14   Global Step: 159500   Required: 11 hours
+[INFO 2021-05-05 04:22:32,741 utils_callbacks.py:90] Speed 299.94 samples/sec   Loss 2.0803   Epoch: 14   Global Step: 159500   Required: 11 hours
+2021-05-05 04:25:23,246 - INFO - Speed 300.29 samples/sec   Loss 2.0898   Epoch: 14   Global Step: 159600   Required: 11 hours
+[INFO 2021-05-05 04:25:23,246 utils_callbacks.py:90] Speed 300.29 samples/sec   Loss 2.0898   Epoch: 14   Global Step: 159600   Required: 11 hours
+2021-05-05 04:28:14,010 - INFO - Speed 299.83 samples/sec   Loss 2.0065   Epoch: 14   Global Step: 159700   Required: 11 hours
+[INFO 2021-05-05 04:28:14,010 utils_callbacks.py:90] Speed 299.83 samples/sec   Loss 2.0065   Epoch: 14   Global Step: 159700   Required: 11 hours
+2021-05-05 04:31:05,651 - INFO - Speed 298.30 samples/sec   Loss 2.1111   Epoch: 14   Global Step: 159800   Required: 11 hours
+[INFO 2021-05-05 04:31:05,651 utils_callbacks.py:90] Speed 298.30 samples/sec   Loss 2.1111   Epoch: 14   Global Step: 159800   Required: 11 hours
+2021-05-05 04:33:56,841 - INFO - Speed 299.09 samples/sec   Loss 2.0382   Epoch: 14   Global Step: 159900   Required: 11 hours
+[INFO 2021-05-05 04:33:56,841 utils_callbacks.py:90] Speed 299.09 samples/sec   Loss 2.0382   Epoch: 14   Global Step: 159900   Required: 11 hours
+2021-05-05 04:36:47,780 - INFO - Speed 299.53 samples/sec   Loss 2.0301   Epoch: 14   Global Step: 160000   Required: 11 hours
+[INFO 2021-05-05 04:36:47,780 utils_callbacks.py:90] Speed 299.53 samples/sec   Loss 2.0301   Epoch: 14   Global Step: 160000   Required: 11 hours
+testing verification..
+(12000, 512)
+infer time 74.31870199999986
+2021-05-05 04:38:05,502 - INFO - [lfw][160000]XNorm: 4.828431
+[INFO 2021-05-05 04:38:05,502 utils_callbacks.py:31] [lfw][160000]XNorm: 4.828431
+2021-05-05 04:38:05,502 - INFO - [lfw][160000]Accuracy-Flip: 0.99733+-0.00309
+[INFO 2021-05-05 04:38:05,502 utils_callbacks.py:32] [lfw][160000]Accuracy-Flip: 0.99733+-0.00309
+2021-05-05 04:38:05,502 - INFO - [lfw][160000]Accuracy-Highest: 0.99750
+[INFO 2021-05-05 04:38:05,502 utils_callbacks.py:35] [lfw][160000]Accuracy-Highest: 0.99750
+testing verification..
+(12000, 512)
+infer time 72.50869099999991
+2021-05-05 04:39:21,686 - INFO - [cplfw][160000]XNorm: 4.579591
+[INFO 2021-05-05 04:39:21,686 utils_callbacks.py:31] [cplfw][160000]XNorm: 4.579591
+2021-05-05 04:39:21,686 - INFO - [cplfw][160000]Accuracy-Flip: 0.92133+-0.01320
+[INFO 2021-05-05 04:39:21,686 utils_callbacks.py:32] [cplfw][160000]Accuracy-Flip: 0.92133+-0.01320
+2021-05-05 04:39:21,686 - INFO - [cplfw][160000]Accuracy-Highest: 0.92233
+[INFO 2021-05-05 04:39:21,686 utils_callbacks.py:35] [cplfw][160000]Accuracy-Highest: 0.92233
+testing verification..
+(12000, 512)
+infer time 72.15787500000008
+2021-05-05 04:40:37,545 - INFO - [calfw][160000]XNorm: 4.807332
+[INFO 2021-05-05 04:40:37,545 utils_callbacks.py:31] [calfw][160000]XNorm: 4.807332
+2021-05-05 04:40:37,545 - INFO - [calfw][160000]Accuracy-Flip: 0.95967+-0.01067
+[INFO 2021-05-05 04:40:37,545 utils_callbacks.py:32] [calfw][160000]Accuracy-Flip: 0.95967+-0.01067
+2021-05-05 04:40:37,545 - INFO - [calfw][160000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 04:40:37,545 utils_callbacks.py:35] [calfw][160000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 04:43:25,956 - INFO - Speed 128.59 samples/sec   Loss 2.0155   Epoch: 14   Global Step: 160100   Required: 11 hours
+[INFO 2021-05-05 04:43:25,956 utils_callbacks.py:90] Speed 128.59 samples/sec   Loss 2.0155   Epoch: 14   Global Step: 160100   Required: 11 hours
+2021-05-05 04:46:16,525 - INFO - Speed 300.17 samples/sec   Loss 2.0716   Epoch: 14   Global Step: 160200   Required: 11 hours
+[INFO 2021-05-05 04:46:16,525 utils_callbacks.py:90] Speed 300.17 samples/sec   Loss 2.0716   Epoch: 14   Global Step: 160200   Required: 11 hours
+2021-05-05 04:49:07,716 - INFO - Speed 299.08 samples/sec   Loss 2.0890   Epoch: 14   Global Step: 160300   Required: 11 hours
+[INFO 2021-05-05 04:49:07,716 utils_callbacks.py:90] Speed 299.08 samples/sec   Loss 2.0890   Epoch: 14   Global Step: 160300   Required: 11 hours
+2021-05-05 04:51:58,627 - INFO - Speed 299.57 samples/sec   Loss 2.0705   Epoch: 14   Global Step: 160400   Required: 11 hours
+[INFO 2021-05-05 04:51:58,627 utils_callbacks.py:90] Speed 299.57 samples/sec   Loss 2.0705   Epoch: 14   Global Step: 160400   Required: 11 hours
+2021-05-05 04:54:49,401 - INFO - Speed 299.82 samples/sec   Loss 2.0963   Epoch: 14   Global Step: 160500   Required: 11 hours
+[INFO 2021-05-05 04:54:49,401 utils_callbacks.py:90] Speed 299.82 samples/sec   Loss 2.0963   Epoch: 14   Global Step: 160500   Required: 11 hours
+2021-05-05 04:57:40,453 - INFO - Speed 299.33 samples/sec   Loss 2.1105   Epoch: 14   Global Step: 160600   Required: 11 hours
+[INFO 2021-05-05 04:57:40,453 utils_callbacks.py:90] Speed 299.33 samples/sec   Loss 2.1105   Epoch: 14   Global Step: 160600   Required: 11 hours
+2021-05-05 05:00:31,786 - INFO - Speed 298.84 samples/sec   Loss 2.1310   Epoch: 14   Global Step: 160700   Required: 11 hours
+[INFO 2021-05-05 05:00:31,786 utils_callbacks.py:90] Speed 298.84 samples/sec   Loss 2.1310   Epoch: 14   Global Step: 160700   Required: 11 hours
+2021-05-05 05:03:22,644 - INFO - Speed 299.67 samples/sec   Loss 2.0996   Epoch: 14   Global Step: 160800   Required: 11 hours
+[INFO 2021-05-05 05:03:22,644 utils_callbacks.py:90] Speed 299.67 samples/sec   Loss 2.0996   Epoch: 14   Global Step: 160800   Required: 11 hours
+2021-05-05 05:06:13,358 - INFO - Speed 299.92 samples/sec   Loss 2.1062   Epoch: 14   Global Step: 160900   Required: 11 hours
+[INFO 2021-05-05 05:06:13,358 utils_callbacks.py:90] Speed 299.92 samples/sec   Loss 2.1062   Epoch: 14   Global Step: 160900   Required: 11 hours
+2021-05-05 05:09:04,484 - INFO - Speed 299.20 samples/sec   Loss 2.0520   Epoch: 14   Global Step: 161000   Required: 11 hours
+[INFO 2021-05-05 05:09:04,484 utils_callbacks.py:90] Speed 299.20 samples/sec   Loss 2.0520   Epoch: 14   Global Step: 161000   Required: 11 hours
+2021-05-05 05:11:56,004 - INFO - Speed 298.51 samples/sec   Loss 2.0977   Epoch: 14   Global Step: 161100   Required: 11 hours
+[INFO 2021-05-05 05:11:56,004 utils_callbacks.py:90] Speed 298.51 samples/sec   Loss 2.0977   Epoch: 14   Global Step: 161100   Required: 11 hours
+2021-05-05 05:14:47,029 - INFO - Speed 299.37 samples/sec   Loss 2.0630   Epoch: 14   Global Step: 161200   Required: 10 hours
+[INFO 2021-05-05 05:14:47,029 utils_callbacks.py:90] Speed 299.37 samples/sec   Loss 2.0630   Epoch: 14   Global Step: 161200   Required: 10 hours
+2021-05-05 05:17:39,034 - INFO - Speed 297.67 samples/sec   Loss 2.1097   Epoch: 14   Global Step: 161300   Required: 10 hours
+[INFO 2021-05-05 05:17:39,034 utils_callbacks.py:90] Speed 297.67 samples/sec   Loss 2.1097   Epoch: 14   Global Step: 161300   Required: 10 hours
+2021-05-05 05:20:30,166 - INFO - Speed 299.19 samples/sec   Loss 2.0643   Epoch: 14   Global Step: 161400   Required: 10 hours
+[INFO 2021-05-05 05:20:30,166 utils_callbacks.py:90] Speed 299.19 samples/sec   Loss 2.0643   Epoch: 14   Global Step: 161400   Required: 10 hours
+2021-05-05 05:23:20,890 - INFO - Speed 299.90 samples/sec   Loss 2.0832   Epoch: 14   Global Step: 161500   Required: 10 hours
+[INFO 2021-05-05 05:23:20,890 utils_callbacks.py:90] Speed 299.90 samples/sec   Loss 2.0832   Epoch: 14   Global Step: 161500   Required: 10 hours
+2021-05-05 05:26:11,572 - INFO - Speed 299.98 samples/sec   Loss 2.1022   Epoch: 14   Global Step: 161600   Required: 10 hours
+[INFO 2021-05-05 05:26:11,572 utils_callbacks.py:90] Speed 299.98 samples/sec   Loss 2.1022   Epoch: 14   Global Step: 161600   Required: 10 hours
+2021-05-05 05:29:02,513 - INFO - Speed 299.52 samples/sec   Loss 2.0849   Epoch: 14   Global Step: 161700   Required: 10 hours
+[INFO 2021-05-05 05:29:02,513 utils_callbacks.py:90] Speed 299.52 samples/sec   Loss 2.0849   Epoch: 14   Global Step: 161700   Required: 10 hours
+2021-05-05 05:31:53,227 - INFO - Speed 299.92 samples/sec   Loss 2.1162   Epoch: 14   Global Step: 161800   Required: 10 hours
+[INFO 2021-05-05 05:31:53,227 utils_callbacks.py:90] Speed 299.92 samples/sec   Loss 2.1162   Epoch: 14   Global Step: 161800   Required: 10 hours
+2021-05-05 05:34:44,711 - INFO - Speed 298.57 samples/sec   Loss 2.0561   Epoch: 14   Global Step: 161900   Required: 10 hours
+[INFO 2021-05-05 05:34:44,711 utils_callbacks.py:90] Speed 298.57 samples/sec   Loss 2.0561   Epoch: 14   Global Step: 161900   Required: 10 hours
+2021-05-05 05:37:36,260 - INFO - Speed 298.46 samples/sec   Loss 2.0803   Epoch: 14   Global Step: 162000   Required: 10 hours
+[INFO 2021-05-05 05:37:36,260 utils_callbacks.py:90] Speed 298.46 samples/sec   Loss 2.0803   Epoch: 14   Global Step: 162000   Required: 10 hours
+testing verification..
+(12000, 512)
+infer time 74.25105000000015
+2021-05-05 05:38:53,912 - INFO - [lfw][162000]XNorm: 4.827631
+[INFO 2021-05-05 05:38:53,912 utils_callbacks.py:31] [lfw][162000]XNorm: 4.827631
+2021-05-05 05:38:53,912 - INFO - [lfw][162000]Accuracy-Flip: 0.99767+-0.00300
+[INFO 2021-05-05 05:38:53,912 utils_callbacks.py:32] [lfw][162000]Accuracy-Flip: 0.99767+-0.00300
+2021-05-05 05:38:53,912 - INFO - [lfw][162000]Accuracy-Highest: 0.99767
+[INFO 2021-05-05 05:38:53,912 utils_callbacks.py:35] [lfw][162000]Accuracy-Highest: 0.99767
+testing verification..
+(12000, 512)
+infer time 71.926162
+2021-05-05 05:40:09,507 - INFO - [cplfw][162000]XNorm: 4.602227
+[INFO 2021-05-05 05:40:09,507 utils_callbacks.py:31] [cplfw][162000]XNorm: 4.602227
+2021-05-05 05:40:09,507 - INFO - [cplfw][162000]Accuracy-Flip: 0.92183+-0.01389
+[INFO 2021-05-05 05:40:09,507 utils_callbacks.py:32] [cplfw][162000]Accuracy-Flip: 0.92183+-0.01389
+2021-05-05 05:40:09,507 - INFO - [cplfw][162000]Accuracy-Highest: 0.92233
+[INFO 2021-05-05 05:40:09,507 utils_callbacks.py:35] [cplfw][162000]Accuracy-Highest: 0.92233
+testing verification..
+(12000, 512)
+infer time 71.70892399999991
+2021-05-05 05:41:24,865 - INFO - [calfw][162000]XNorm: 4.801410
+[INFO 2021-05-05 05:41:24,865 utils_callbacks.py:31] [calfw][162000]XNorm: 4.801410
+2021-05-05 05:41:24,865 - INFO - [calfw][162000]Accuracy-Flip: 0.96050+-0.01078
+[INFO 2021-05-05 05:41:24,865 utils_callbacks.py:32] [calfw][162000]Accuracy-Flip: 0.96050+-0.01078
+2021-05-05 05:41:24,865 - INFO - [calfw][162000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 05:41:24,865 utils_callbacks.py:35] [calfw][162000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 05:44:12,501 - INFO - Speed 129.21 samples/sec   Loss 2.0770   Epoch: 14   Global Step: 162100   Required: 10 hours
+[INFO 2021-05-05 05:44:12,501 utils_callbacks.py:90] Speed 129.21 samples/sec   Loss 2.0770   Epoch: 14   Global Step: 162100   Required: 10 hours
+2021-05-05 05:47:03,574 - INFO - Speed 299.29 samples/sec   Loss 2.0920   Epoch: 14   Global Step: 162200   Required: 10 hours
+[INFO 2021-05-05 05:47:03,574 utils_callbacks.py:90] Speed 299.29 samples/sec   Loss 2.0920   Epoch: 14   Global Step: 162200   Required: 10 hours
+2021-05-05 05:49:54,799 - INFO - Speed 299.03 samples/sec   Loss 2.0501   Epoch: 14   Global Step: 162300   Required: 10 hours
+[INFO 2021-05-05 05:49:54,799 utils_callbacks.py:90] Speed 299.03 samples/sec   Loss 2.0501   Epoch: 14   Global Step: 162300   Required: 10 hours
+2021-05-05 05:52:46,018 - INFO - Speed 299.04 samples/sec   Loss 2.1415   Epoch: 14   Global Step: 162400   Required: 10 hours
+[INFO 2021-05-05 05:52:46,018 utils_callbacks.py:90] Speed 299.04 samples/sec   Loss 2.1415   Epoch: 14   Global Step: 162400   Required: 10 hours
+2021-05-05 05:55:37,005 - INFO - Speed 299.44 samples/sec   Loss 2.1292   Epoch: 14   Global Step: 162500   Required: 10 hours
+[INFO 2021-05-05 05:55:37,005 utils_callbacks.py:90] Speed 299.44 samples/sec   Loss 2.1292   Epoch: 14   Global Step: 162500   Required: 10 hours
+2021-05-05 05:58:28,211 - INFO - Speed 299.06 samples/sec   Loss 2.0329   Epoch: 14   Global Step: 162600   Required: 10 hours
+[INFO 2021-05-05 05:58:28,211 utils_callbacks.py:90] Speed 299.06 samples/sec   Loss 2.0329   Epoch: 14   Global Step: 162600   Required: 10 hours
+2021-05-05 06:01:19,203 - INFO - Speed 299.43 samples/sec   Loss 2.0898   Epoch: 14   Global Step: 162700   Required: 10 hours
+[INFO 2021-05-05 06:01:19,203 utils_callbacks.py:90] Speed 299.43 samples/sec   Loss 2.0898   Epoch: 14   Global Step: 162700   Required: 10 hours
+2021-05-05 06:04:10,238 - INFO - Speed 299.36 samples/sec   Loss 2.0975   Epoch: 14   Global Step: 162800   Required: 10 hours
+[INFO 2021-05-05 06:04:10,238 utils_callbacks.py:90] Speed 299.36 samples/sec   Loss 2.0975   Epoch: 14   Global Step: 162800   Required: 10 hours
+2021-05-05 06:07:01,541 - INFO - Speed 298.89 samples/sec   Loss 2.0624   Epoch: 14   Global Step: 162900   Required: 10 hours
+[INFO 2021-05-05 06:07:01,541 utils_callbacks.py:90] Speed 298.89 samples/sec   Loss 2.0624   Epoch: 14   Global Step: 162900   Required: 10 hours
+2021-05-05 06:09:53,026 - INFO - Speed 298.57 samples/sec   Loss 2.0722   Epoch: 14   Global Step: 163000   Required: 10 hours
+[INFO 2021-05-05 06:09:53,026 utils_callbacks.py:90] Speed 298.57 samples/sec   Loss 2.0722   Epoch: 14   Global Step: 163000   Required: 10 hours
+2021-05-05 06:12:44,678 - INFO - Speed 298.28 samples/sec   Loss 2.0561   Epoch: 14   Global Step: 163100   Required: 10 hours
+[INFO 2021-05-05 06:12:44,678 utils_callbacks.py:90] Speed 298.28 samples/sec   Loss 2.0561   Epoch: 14   Global Step: 163100   Required: 10 hours
+2021-05-05 06:15:36,191 - INFO - Speed 298.52 samples/sec   Loss 2.0663   Epoch: 14   Global Step: 163200   Required: 9 hours
+[INFO 2021-05-05 06:15:36,191 utils_callbacks.py:90] Speed 298.52 samples/sec   Loss 2.0663   Epoch: 14   Global Step: 163200   Required: 9 hours
+2021-05-05 06:18:27,292 - INFO - Speed 299.24 samples/sec   Loss 2.1153   Epoch: 14   Global Step: 163300   Required: 9 hours
+[INFO 2021-05-05 06:18:27,292 utils_callbacks.py:90] Speed 299.24 samples/sec   Loss 2.1153   Epoch: 14   Global Step: 163300   Required: 9 hours
+2021-05-05 06:21:18,314 - INFO - Speed 299.38 samples/sec   Loss 2.0948   Epoch: 14   Global Step: 163400   Required: 9 hours
+[INFO 2021-05-05 06:21:18,314 utils_callbacks.py:90] Speed 299.38 samples/sec   Loss 2.0948   Epoch: 14   Global Step: 163400   Required: 9 hours
+2021-05-05 06:24:08,772 - INFO - Speed 300.37 samples/sec   Loss 2.0774   Epoch: 14   Global Step: 163500   Required: 9 hours
+[INFO 2021-05-05 06:24:08,772 utils_callbacks.py:90] Speed 300.37 samples/sec   Loss 2.0774   Epoch: 14   Global Step: 163500   Required: 9 hours
+2021-05-05 06:27:00,109 - INFO - Speed 298.83 samples/sec   Loss 2.0881   Epoch: 14   Global Step: 163600   Required: 9 hours
+[INFO 2021-05-05 06:27:00,109 utils_callbacks.py:90] Speed 298.83 samples/sec   Loss 2.0881   Epoch: 14   Global Step: 163600   Required: 9 hours
+2021-05-05 06:29:51,098 - INFO - Speed 299.44 samples/sec   Loss 2.0800   Epoch: 14   Global Step: 163700   Required: 9 hours
+[INFO 2021-05-05 06:29:51,098 utils_callbacks.py:90] Speed 299.44 samples/sec   Loss 2.0800   Epoch: 14   Global Step: 163700   Required: 9 hours
+2021-05-05 06:32:42,358 - INFO - Speed 298.96 samples/sec   Loss 2.0782   Epoch: 14   Global Step: 163800   Required: 9 hours
+[INFO 2021-05-05 06:32:42,358 utils_callbacks.py:90] Speed 298.96 samples/sec   Loss 2.0782   Epoch: 14   Global Step: 163800   Required: 9 hours
+2021-05-05 06:35:33,779 - INFO - Speed 298.68 samples/sec   Loss 2.1316   Epoch: 14   Global Step: 163900   Required: 9 hours
+[INFO 2021-05-05 06:35:33,779 utils_callbacks.py:90] Speed 298.68 samples/sec   Loss 2.1316   Epoch: 14   Global Step: 163900   Required: 9 hours
+2021-05-05 06:38:24,745 - INFO - Speed 299.48 samples/sec   Loss 2.1083   Epoch: 14   Global Step: 164000   Required: 9 hours
+[INFO 2021-05-05 06:38:24,745 utils_callbacks.py:90] Speed 299.48 samples/sec   Loss 2.1083   Epoch: 14   Global Step: 164000   Required: 9 hours
+testing verification..
+(12000, 512)
+infer time 73.35947699999996
+2021-05-05 06:39:41,473 - INFO - [lfw][164000]XNorm: 4.838373
+[INFO 2021-05-05 06:39:41,473 utils_callbacks.py:31] [lfw][164000]XNorm: 4.838373
+2021-05-05 06:39:41,473 - INFO - [lfw][164000]Accuracy-Flip: 0.99733+-0.00309
+[INFO 2021-05-05 06:39:41,473 utils_callbacks.py:32] [lfw][164000]Accuracy-Flip: 0.99733+-0.00309
+2021-05-05 06:39:41,473 - INFO - [lfw][164000]Accuracy-Highest: 0.99767
+[INFO 2021-05-05 06:39:41,473 utils_callbacks.py:35] [lfw][164000]Accuracy-Highest: 0.99767
+testing verification..
+(12000, 512)
+infer time 72.17941499999999
+2021-05-05 06:40:57,341 - INFO - [cplfw][164000]XNorm: 4.603914
+[INFO 2021-05-05 06:40:57,341 utils_callbacks.py:31] [cplfw][164000]XNorm: 4.603914
+2021-05-05 06:40:57,341 - INFO - [cplfw][164000]Accuracy-Flip: 0.92183+-0.01429
+[INFO 2021-05-05 06:40:57,341 utils_callbacks.py:32] [cplfw][164000]Accuracy-Flip: 0.92183+-0.01429
+2021-05-05 06:40:57,342 - INFO - [cplfw][164000]Accuracy-Highest: 0.92233
+[INFO 2021-05-05 06:40:57,342 utils_callbacks.py:35] [cplfw][164000]Accuracy-Highest: 0.92233
+testing verification..
+(12000, 512)
+infer time 72.0994300000001
+2021-05-05 06:42:13,192 - INFO - [calfw][164000]XNorm: 4.813653
+[INFO 2021-05-05 06:42:13,192 utils_callbacks.py:31] [calfw][164000]XNorm: 4.813653
+2021-05-05 06:42:13,193 - INFO - [calfw][164000]Accuracy-Flip: 0.95850+-0.01244
+[INFO 2021-05-05 06:42:13,193 utils_callbacks.py:32] [calfw][164000]Accuracy-Flip: 0.95850+-0.01244
+2021-05-05 06:42:13,193 - INFO - [calfw][164000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 06:42:13,193 utils_callbacks.py:35] [calfw][164000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 06:45:01,295 - INFO - Speed 129.11 samples/sec   Loss 2.0714   Epoch: 14   Global Step: 164100   Required: 9 hours
+[INFO 2021-05-05 06:45:01,295 utils_callbacks.py:90] Speed 129.11 samples/sec   Loss 2.0714   Epoch: 14   Global Step: 164100   Required: 9 hours
+2021-05-05 06:47:52,770 - INFO - Speed 298.59 samples/sec   Loss 2.1038   Epoch: 14   Global Step: 164200   Required: 9 hours
+[INFO 2021-05-05 06:47:52,770 utils_callbacks.py:90] Speed 298.59 samples/sec   Loss 2.1038   Epoch: 14   Global Step: 164200   Required: 9 hours
+2021-05-05 06:50:44,078 - INFO - Speed 298.88 samples/sec   Loss 2.0845   Epoch: 14   Global Step: 164300   Required: 9 hours
+[INFO 2021-05-05 06:50:44,078 utils_callbacks.py:90] Speed 298.88 samples/sec   Loss 2.0845   Epoch: 14   Global Step: 164300   Required: 9 hours
+2021-05-05 06:53:34,806 - INFO - Speed 299.90 samples/sec   Loss 2.0779   Epoch: 14   Global Step: 164400   Required: 9 hours
+[INFO 2021-05-05 06:53:34,806 utils_callbacks.py:90] Speed 299.90 samples/sec   Loss 2.0779   Epoch: 14   Global Step: 164400   Required: 9 hours
+2021-05-05 06:56:26,151 - INFO - Speed 298.82 samples/sec   Loss 2.1188   Epoch: 14   Global Step: 164500   Required: 9 hours
+[INFO 2021-05-05 06:56:26,151 utils_callbacks.py:90] Speed 298.82 samples/sec   Loss 2.1188   Epoch: 14   Global Step: 164500   Required: 9 hours
+2021-05-05 06:59:17,774 - INFO - Speed 298.33 samples/sec   Loss 2.0861   Epoch: 14   Global Step: 164600   Required: 9 hours
+[INFO 2021-05-05 06:59:17,774 utils_callbacks.py:90] Speed 298.33 samples/sec   Loss 2.0861   Epoch: 14   Global Step: 164600   Required: 9 hours
+2021-05-05 07:02:08,907 - INFO - Speed 299.18 samples/sec   Loss 2.1119   Epoch: 14   Global Step: 164700   Required: 9 hours
+[INFO 2021-05-05 07:02:08,907 utils_callbacks.py:90] Speed 299.18 samples/sec   Loss 2.1119   Epoch: 14   Global Step: 164700   Required: 9 hours
+2021-05-05 07:04:59,622 - INFO - Speed 299.92 samples/sec   Loss 2.1058   Epoch: 14   Global Step: 164800   Required: 9 hours
+[INFO 2021-05-05 07:04:59,622 utils_callbacks.py:90] Speed 299.92 samples/sec   Loss 2.1058   Epoch: 14   Global Step: 164800   Required: 9 hours
+2021-05-05 07:07:52,290 - INFO - Speed 296.53 samples/sec   Loss 2.1213   Epoch: 14   Global Step: 164900   Required: 9 hours
+[INFO 2021-05-05 07:07:52,290 utils_callbacks.py:90] Speed 296.53 samples/sec   Loss 2.1213   Epoch: 14   Global Step: 164900   Required: 9 hours
+2021-05-05 07:10:44,819 - INFO - Speed 296.77 samples/sec   Loss 2.0874   Epoch: 14   Global Step: 165000   Required: 9 hours
+[INFO 2021-05-05 07:10:44,819 utils_callbacks.py:90] Speed 296.77 samples/sec   Loss 2.0874   Epoch: 14   Global Step: 165000   Required: 9 hours
+2021-05-05 07:13:37,539 - INFO - Speed 296.44 samples/sec   Loss 2.1314   Epoch: 14   Global Step: 165100   Required: 9 hours
+[INFO 2021-05-05 07:13:37,539 utils_callbacks.py:90] Speed 296.44 samples/sec   Loss 2.1314   Epoch: 14   Global Step: 165100   Required: 9 hours
+2021-05-05 07:16:29,369 - INFO - Speed 297.97 samples/sec   Loss 2.1012   Epoch: 14   Global Step: 165200   Required: 8 hours
+[INFO 2021-05-05 07:16:29,369 utils_callbacks.py:90] Speed 297.97 samples/sec   Loss 2.1012   Epoch: 14   Global Step: 165200   Required: 8 hours
+2021-05-05 07:19:22,544 - INFO - Speed 295.66 samples/sec   Loss 2.1316   Epoch: 14   Global Step: 165300   Required: 8 hours
+[INFO 2021-05-05 07:19:22,544 utils_callbacks.py:90] Speed 295.66 samples/sec   Loss 2.1316   Epoch: 14   Global Step: 165300   Required: 8 hours
+2021-05-05 07:22:15,097 - INFO - Speed 296.72 samples/sec   Loss 2.0651   Epoch: 14   Global Step: 165400   Required: 8 hours
+[INFO 2021-05-05 07:22:15,097 utils_callbacks.py:90] Speed 296.72 samples/sec   Loss 2.0651   Epoch: 14   Global Step: 165400   Required: 8 hours
+2021-05-05 07:25:06,606 - INFO - Speed 298.53 samples/sec   Loss 2.0880   Epoch: 14   Global Step: 165500   Required: 8 hours
+[INFO 2021-05-05 07:25:06,606 utils_callbacks.py:90] Speed 298.53 samples/sec   Loss 2.0880   Epoch: 14   Global Step: 165500   Required: 8 hours
+2021-05-05 07:27:59,379 - INFO - Speed 296.34 samples/sec   Loss 2.0752   Epoch: 14   Global Step: 165600   Required: 8 hours
+[INFO 2021-05-05 07:27:59,379 utils_callbacks.py:90] Speed 296.34 samples/sec   Loss 2.0752   Epoch: 14   Global Step: 165600   Required: 8 hours
+2021-05-05 07:30:50,768 - INFO - Speed 298.74 samples/sec   Loss 2.1188   Epoch: 14   Global Step: 165700   Required: 8 hours
+[INFO 2021-05-05 07:30:50,768 utils_callbacks.py:90] Speed 298.74 samples/sec   Loss 2.1188   Epoch: 14   Global Step: 165700   Required: 8 hours
+2021-05-05 07:33:44,016 - INFO - Speed 295.53 samples/sec   Loss 2.0903   Epoch: 14   Global Step: 165800   Required: 8 hours
+[INFO 2021-05-05 07:33:44,016 utils_callbacks.py:90] Speed 295.53 samples/sec   Loss 2.0903   Epoch: 14   Global Step: 165800   Required: 8 hours
+2021-05-05 07:36:36,192 - INFO - Speed 297.37 samples/sec   Loss 2.1185   Epoch: 14   Global Step: 165900   Required: 8 hours
+[INFO 2021-05-05 07:36:36,192 utils_callbacks.py:90] Speed 297.37 samples/sec   Loss 2.1185   Epoch: 14   Global Step: 165900   Required: 8 hours
+2021-05-05 07:39:27,730 - INFO - Speed 298.48 samples/sec   Loss 2.0777   Epoch: 14   Global Step: 166000   Required: 8 hours
+[INFO 2021-05-05 07:39:27,730 utils_callbacks.py:90] Speed 298.48 samples/sec   Loss 2.0777   Epoch: 14   Global Step: 166000   Required: 8 hours
+testing verification..
+(12000, 512)
+infer time 77.70338300000009
+2021-05-05 07:40:48,897 - INFO - [lfw][166000]XNorm: 4.827923
+[INFO 2021-05-05 07:40:48,897 utils_callbacks.py:31] [lfw][166000]XNorm: 4.827923
+2021-05-05 07:40:48,897 - INFO - [lfw][166000]Accuracy-Flip: 0.99700+-0.00332
+[INFO 2021-05-05 07:40:48,897 utils_callbacks.py:32] [lfw][166000]Accuracy-Flip: 0.99700+-0.00332
+2021-05-05 07:40:48,897 - INFO - [lfw][166000]Accuracy-Highest: 0.99767
+[INFO 2021-05-05 07:40:48,897 utils_callbacks.py:35] [lfw][166000]Accuracy-Highest: 0.99767
+testing verification..
+(12000, 512)
+infer time 77.07806899999993
+2021-05-05 07:42:09,796 - INFO - [cplfw][166000]XNorm: 4.588083
+[INFO 2021-05-05 07:42:09,796 utils_callbacks.py:31] [cplfw][166000]XNorm: 4.588083
+2021-05-05 07:42:09,796 - INFO - [cplfw][166000]Accuracy-Flip: 0.92183+-0.01371
+[INFO 2021-05-05 07:42:09,796 utils_callbacks.py:32] [cplfw][166000]Accuracy-Flip: 0.92183+-0.01371
+2021-05-05 07:42:09,796 - INFO - [cplfw][166000]Accuracy-Highest: 0.92233
+[INFO 2021-05-05 07:42:09,796 utils_callbacks.py:35] [cplfw][166000]Accuracy-Highest: 0.92233
+testing verification..
+(12000, 512)
+infer time 75.17959800000006
+2021-05-05 07:43:28,677 - INFO - [calfw][166000]XNorm: 4.803023
+[INFO 2021-05-05 07:43:28,677 utils_callbacks.py:31] [calfw][166000]XNorm: 4.803023
+2021-05-05 07:43:28,677 - INFO - [calfw][166000]Accuracy-Flip: 0.96033+-0.01105
+[INFO 2021-05-05 07:43:28,677 utils_callbacks.py:32] [calfw][166000]Accuracy-Flip: 0.96033+-0.01105
+2021-05-05 07:43:28,678 - INFO - [calfw][166000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 07:43:28,678 utils_callbacks.py:35] [calfw][166000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 07:46:17,424 - INFO - Speed 124.97 samples/sec   Loss 2.0886   Epoch: 14   Global Step: 166100   Required: 8 hours
+[INFO 2021-05-05 07:46:17,424 utils_callbacks.py:90] Speed 124.97 samples/sec   Loss 2.0886   Epoch: 14   Global Step: 166100   Required: 8 hours
+2021-05-05 07:49:09,669 - INFO - Speed 297.25 samples/sec   Loss 2.1188   Epoch: 14   Global Step: 166200   Required: 8 hours
+[INFO 2021-05-05 07:49:09,669 utils_callbacks.py:90] Speed 297.25 samples/sec   Loss 2.1188   Epoch: 14   Global Step: 166200   Required: 8 hours
+2021-05-05 07:52:02,529 - INFO - Speed 296.20 samples/sec   Loss 2.1211   Epoch: 14   Global Step: 166300   Required: 8 hours
+[INFO 2021-05-05 07:52:02,529 utils_callbacks.py:90] Speed 296.20 samples/sec   Loss 2.1211   Epoch: 14   Global Step: 166300   Required: 8 hours
+2021-05-05 07:54:54,855 - INFO - Speed 297.11 samples/sec   Loss 2.0797   Epoch: 14   Global Step: 166400   Required: 8 hours
+[INFO 2021-05-05 07:54:54,855 utils_callbacks.py:90] Speed 297.11 samples/sec   Loss 2.0797   Epoch: 14   Global Step: 166400   Required: 8 hours
+2021-05-05 07:57:46,807 - INFO - Speed 297.76 samples/sec   Loss 2.0800   Epoch: 14   Global Step: 166500   Required: 8 hours
+[INFO 2021-05-05 07:57:46,807 utils_callbacks.py:90] Speed 297.76 samples/sec   Loss 2.0800   Epoch: 14   Global Step: 166500   Required: 8 hours
+2021-05-05 08:00:39,419 - INFO - Speed 296.62 samples/sec   Loss 2.0652   Epoch: 14   Global Step: 166600   Required: 8 hours
+[INFO 2021-05-05 08:00:39,419 utils_callbacks.py:90] Speed 296.62 samples/sec   Loss 2.0652   Epoch: 14   Global Step: 166600   Required: 8 hours
+2021-05-05 08:03:30,986 - INFO - Speed 298.43 samples/sec   Loss 2.0799   Epoch: 14   Global Step: 166700   Required: 8 hours
+[INFO 2021-05-05 08:03:30,986 utils_callbacks.py:90] Speed 298.43 samples/sec   Loss 2.0799   Epoch: 14   Global Step: 166700   Required: 8 hours
+2021-05-05 08:06:23,946 - INFO - Speed 296.03 samples/sec   Loss 2.0777   Epoch: 14   Global Step: 166800   Required: 8 hours
+[INFO 2021-05-05 08:06:23,946 utils_callbacks.py:90] Speed 296.03 samples/sec   Loss 2.0777   Epoch: 14   Global Step: 166800   Required: 8 hours
+2021-05-05 08:09:15,573 - INFO - Speed 298.32 samples/sec   Loss 2.0745   Epoch: 14   Global Step: 166900   Required: 8 hours
+[INFO 2021-05-05 08:09:15,573 utils_callbacks.py:90] Speed 298.32 samples/sec   Loss 2.0745   Epoch: 14   Global Step: 166900   Required: 8 hours
+2021-05-05 08:12:08,256 - INFO - Speed 296.50 samples/sec   Loss 2.0916   Epoch: 14   Global Step: 167000   Required: 8 hours
+[INFO 2021-05-05 08:12:08,256 utils_callbacks.py:90] Speed 296.50 samples/sec   Loss 2.0916   Epoch: 14   Global Step: 167000   Required: 8 hours
+2021-05-05 08:15:00,642 - INFO - Speed 297.01 samples/sec   Loss 2.0957   Epoch: 14   Global Step: 167100   Required: 7 hours
+[INFO 2021-05-05 08:15:00,642 utils_callbacks.py:90] Speed 297.01 samples/sec   Loss 2.0957   Epoch: 14   Global Step: 167100   Required: 7 hours
+2021-05-05 08:17:52,224 - INFO - Speed 298.40 samples/sec   Loss 2.1375   Epoch: 14   Global Step: 167200   Required: 7 hours
+[INFO 2021-05-05 08:17:52,224 utils_callbacks.py:90] Speed 298.40 samples/sec   Loss 2.1375   Epoch: 14   Global Step: 167200   Required: 7 hours
+2021-05-05 08:20:45,966 - INFO - Speed 294.69 samples/sec   Loss 2.1223   Epoch: 14   Global Step: 167300   Required: 7 hours
+[INFO 2021-05-05 08:20:45,966 utils_callbacks.py:90] Speed 294.69 samples/sec   Loss 2.1223   Epoch: 14   Global Step: 167300   Required: 7 hours
+2021-05-05 08:23:37,368 - INFO - Speed 298.72 samples/sec   Loss 2.0908   Epoch: 14   Global Step: 167400   Required: 7 hours
+[INFO 2021-05-05 08:23:37,368 utils_callbacks.py:90] Speed 298.72 samples/sec   Loss 2.0908   Epoch: 14   Global Step: 167400   Required: 7 hours
+2021-05-05 08:26:30,170 - INFO - Speed 296.30 samples/sec   Loss 2.1128   Epoch: 14   Global Step: 167500   Required: 7 hours
+[INFO 2021-05-05 08:26:30,170 utils_callbacks.py:90] Speed 296.30 samples/sec   Loss 2.1128   Epoch: 14   Global Step: 167500   Required: 7 hours
+2021-05-05 08:29:22,495 - INFO - Speed 297.12 samples/sec   Loss 2.1067   Epoch: 14   Global Step: 167600   Required: 7 hours
+[INFO 2021-05-05 08:29:22,495 utils_callbacks.py:90] Speed 297.12 samples/sec   Loss 2.1067   Epoch: 14   Global Step: 167600   Required: 7 hours
+2021-05-05 08:32:14,048 - INFO - Speed 298.46 samples/sec   Loss 2.0658   Epoch: 14   Global Step: 167700   Required: 7 hours
+[INFO 2021-05-05 08:32:14,048 utils_callbacks.py:90] Speed 298.46 samples/sec   Loss 2.0658   Epoch: 14   Global Step: 167700   Required: 7 hours
+2021-05-05 08:35:07,110 - INFO - Speed 295.85 samples/sec   Loss 2.1273   Epoch: 14   Global Step: 167800   Required: 7 hours
+[INFO 2021-05-05 08:35:07,110 utils_callbacks.py:90] Speed 295.85 samples/sec   Loss 2.1273   Epoch: 14   Global Step: 167800   Required: 7 hours
+2021-05-05 08:37:58,012 - INFO - Speed 299.59 samples/sec   Loss 2.0895   Epoch: 14   Global Step: 167900   Required: 7 hours
+[INFO 2021-05-05 08:37:58,012 utils_callbacks.py:90] Speed 299.59 samples/sec   Loss 2.0895   Epoch: 14   Global Step: 167900   Required: 7 hours
+2021-05-05 08:40:50,556 - INFO - Speed 296.74 samples/sec   Loss 2.0928   Epoch: 14   Global Step: 168000   Required: 7 hours
+[INFO 2021-05-05 08:40:50,556 utils_callbacks.py:90] Speed 296.74 samples/sec   Loss 2.0928   Epoch: 14   Global Step: 168000   Required: 7 hours
+testing verification..
+(12000, 512)
+infer time 75.74518100000012
+2021-05-05 08:42:09,739 - INFO - [lfw][168000]XNorm: 4.842943
+[INFO 2021-05-05 08:42:09,739 utils_callbacks.py:31] [lfw][168000]XNorm: 4.842943
+2021-05-05 08:42:09,739 - INFO - [lfw][168000]Accuracy-Flip: 0.99717+-0.00308
+[INFO 2021-05-05 08:42:09,739 utils_callbacks.py:32] [lfw][168000]Accuracy-Flip: 0.99717+-0.00308
+2021-05-05 08:42:09,739 - INFO - [lfw][168000]Accuracy-Highest: 0.99767
+[INFO 2021-05-05 08:42:09,739 utils_callbacks.py:35] [lfw][168000]Accuracy-Highest: 0.99767
+testing verification..
+(12000, 512)
+infer time 76.4911420000001
+2021-05-05 08:43:30,191 - INFO - [cplfw][168000]XNorm: 4.613573
+[INFO 2021-05-05 08:43:30,191 utils_callbacks.py:31] [cplfw][168000]XNorm: 4.613573
+2021-05-05 08:43:30,192 - INFO - [cplfw][168000]Accuracy-Flip: 0.92317+-0.01334
+[INFO 2021-05-05 08:43:30,192 utils_callbacks.py:32] [cplfw][168000]Accuracy-Flip: 0.92317+-0.01334
+2021-05-05 08:43:30,192 - INFO - [cplfw][168000]Accuracy-Highest: 0.92317
+[INFO 2021-05-05 08:43:30,192 utils_callbacks.py:35] [cplfw][168000]Accuracy-Highest: 0.92317
+testing verification..
+(12000, 512)
+infer time 74.86770999999999
+2021-05-05 08:44:48,762 - INFO - [calfw][168000]XNorm: 4.819755
+[INFO 2021-05-05 08:44:48,762 utils_callbacks.py:31] [calfw][168000]XNorm: 4.819755
+2021-05-05 08:44:48,762 - INFO - [calfw][168000]Accuracy-Flip: 0.96017+-0.01139
+[INFO 2021-05-05 08:44:48,762 utils_callbacks.py:32] [calfw][168000]Accuracy-Flip: 0.96017+-0.01139
+2021-05-05 08:44:48,762 - INFO - [calfw][168000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 08:44:48,762 utils_callbacks.py:35] [calfw][168000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 08:47:37,758 - INFO - Speed 125.74 samples/sec   Loss 2.0865   Epoch: 14   Global Step: 168100   Required: 7 hours
+[INFO 2021-05-05 08:47:37,758 utils_callbacks.py:90] Speed 125.74 samples/sec   Loss 2.0865   Epoch: 14   Global Step: 168100   Required: 7 hours
+2021-05-05 08:50:29,731 - INFO - Speed 297.72 samples/sec   Loss 2.1051   Epoch: 14   Global Step: 168200   Required: 7 hours
+[INFO 2021-05-05 08:50:29,731 utils_callbacks.py:90] Speed 297.72 samples/sec   Loss 2.1051   Epoch: 14   Global Step: 168200   Required: 7 hours
+2021-05-05 08:53:22,777 - INFO - Speed 295.88 samples/sec   Loss 2.0981   Epoch: 14   Global Step: 168300   Required: 7 hours
+[INFO 2021-05-05 08:53:22,777 utils_callbacks.py:90] Speed 295.88 samples/sec   Loss 2.0981   Epoch: 14   Global Step: 168300   Required: 7 hours
+2021-05-05 08:56:14,027 - INFO - Speed 298.98 samples/sec   Loss 2.0987   Epoch: 14   Global Step: 168400   Required: 7 hours
+[INFO 2021-05-05 08:56:14,027 utils_callbacks.py:90] Speed 298.98 samples/sec   Loss 2.0987   Epoch: 14   Global Step: 168400   Required: 7 hours
+2021-05-05 08:59:07,423 - INFO - Speed 295.28 samples/sec   Loss 2.1335   Epoch: 14   Global Step: 168500   Required: 7 hours
+[INFO 2021-05-05 08:59:07,423 utils_callbacks.py:90] Speed 295.28 samples/sec   Loss 2.1335   Epoch: 14   Global Step: 168500   Required: 7 hours
+2021-05-05 09:01:59,303 - INFO - Speed 297.88 samples/sec   Loss 2.1129   Epoch: 14   Global Step: 168600   Required: 7 hours
+[INFO 2021-05-05 09:01:59,303 utils_callbacks.py:90] Speed 297.88 samples/sec   Loss 2.1129   Epoch: 14   Global Step: 168600   Required: 7 hours
+2021-05-05 09:04:51,661 - INFO - Speed 297.06 samples/sec   Loss 2.0930   Epoch: 14   Global Step: 168700   Required: 7 hours
+[INFO 2021-05-05 09:04:51,661 utils_callbacks.py:90] Speed 297.06 samples/sec   Loss 2.0930   Epoch: 14   Global Step: 168700   Required: 7 hours
+2021-05-05 09:07:44,903 - INFO - Speed 295.54 samples/sec   Loss 2.0819   Epoch: 14   Global Step: 168800   Required: 7 hours
+[INFO 2021-05-05 09:07:44,903 utils_callbacks.py:90] Speed 295.54 samples/sec   Loss 2.0819   Epoch: 14   Global Step: 168800   Required: 7 hours
+2021-05-05 09:10:36,931 - INFO - Speed 297.63 samples/sec   Loss 2.0659   Epoch: 14   Global Step: 168900   Required: 7 hours
+[INFO 2021-05-05 09:10:36,931 utils_callbacks.py:90] Speed 297.63 samples/sec   Loss 2.0659   Epoch: 14   Global Step: 168900   Required: 7 hours
+2021-05-05 09:13:29,922 - INFO - Speed 295.97 samples/sec   Loss 2.0949   Epoch: 14   Global Step: 169000   Required: 7 hours
+[INFO 2021-05-05 09:13:29,922 utils_callbacks.py:90] Speed 295.97 samples/sec   Loss 2.0949   Epoch: 14   Global Step: 169000   Required: 7 hours
+2021-05-05 09:16:22,201 - INFO - Speed 297.20 samples/sec   Loss 2.1302   Epoch: 14   Global Step: 169100   Required: 6 hours
+[INFO 2021-05-05 09:16:22,201 utils_callbacks.py:90] Speed 297.20 samples/sec   Loss 2.1302   Epoch: 14   Global Step: 169100   Required: 6 hours
+2021-05-05 09:19:14,046 - INFO - Speed 297.95 samples/sec   Loss 2.1084   Epoch: 14   Global Step: 169200   Required: 6 hours
+[INFO 2021-05-05 09:19:14,046 utils_callbacks.py:90] Speed 297.95 samples/sec   Loss 2.1084   Epoch: 14   Global Step: 169200   Required: 6 hours
+2021-05-05 09:22:06,956 - INFO - Speed 296.11 samples/sec   Loss 2.0610   Epoch: 14   Global Step: 169300   Required: 6 hours
+[INFO 2021-05-05 09:22:06,956 utils_callbacks.py:90] Speed 296.11 samples/sec   Loss 2.0610   Epoch: 14   Global Step: 169300   Required: 6 hours
+2021-05-05 09:24:58,970 - INFO - Speed 297.65 samples/sec   Loss 2.1053   Epoch: 14   Global Step: 169400   Required: 6 hours
+[INFO 2021-05-05 09:24:58,970 utils_callbacks.py:90] Speed 297.65 samples/sec   Loss 2.1053   Epoch: 14   Global Step: 169400   Required: 6 hours
+2021-05-05 09:27:51,364 - INFO - Speed 297.00 samples/sec   Loss 2.1158   Epoch: 14   Global Step: 169500   Required: 6 hours
+[INFO 2021-05-05 09:27:51,364 utils_callbacks.py:90] Speed 297.00 samples/sec   Loss 2.1158   Epoch: 14   Global Step: 169500   Required: 6 hours
+2021-05-05 09:30:43,859 - INFO - Speed 296.82 samples/sec   Loss 2.0951   Epoch: 14   Global Step: 169600   Required: 6 hours
+[INFO 2021-05-05 09:30:43,859 utils_callbacks.py:90] Speed 296.82 samples/sec   Loss 2.0951   Epoch: 14   Global Step: 169600   Required: 6 hours
+2021-05-05 09:33:34,955 - INFO - Speed 299.25 samples/sec   Loss 2.1055   Epoch: 14   Global Step: 169700   Required: 6 hours
+[INFO 2021-05-05 09:33:34,955 utils_callbacks.py:90] Speed 299.25 samples/sec   Loss 2.1055   Epoch: 14   Global Step: 169700   Required: 6 hours
+2021-05-05 09:36:28,062 - INFO - Speed 295.77 samples/sec   Loss 2.1117   Epoch: 14   Global Step: 169800   Required: 6 hours
+[INFO 2021-05-05 09:36:28,062 utils_callbacks.py:90] Speed 295.77 samples/sec   Loss 2.1117   Epoch: 14   Global Step: 169800   Required: 6 hours
+2021-05-05 09:39:19,692 - INFO - Speed 298.32 samples/sec   Loss 2.0830   Epoch: 14   Global Step: 169900   Required: 6 hours
+[INFO 2021-05-05 09:39:19,692 utils_callbacks.py:90] Speed 298.32 samples/sec   Loss 2.0830   Epoch: 14   Global Step: 169900   Required: 6 hours
+2021-05-05 09:42:10,544 - INFO - Speed 299.68 samples/sec   Loss 2.0967   Epoch: 14   Global Step: 170000   Required: 6 hours
+[INFO 2021-05-05 09:42:10,544 utils_callbacks.py:90] Speed 299.68 samples/sec   Loss 2.0967   Epoch: 14   Global Step: 170000   Required: 6 hours
+testing verification..
+(12000, 512)
+infer time 74.59999300000025
+2021-05-05 09:43:28,533 - INFO - [lfw][170000]XNorm: 4.816674
+[INFO 2021-05-05 09:43:28,533 utils_callbacks.py:31] [lfw][170000]XNorm: 4.816674
+2021-05-05 09:43:28,533 - INFO - [lfw][170000]Accuracy-Flip: 0.99750+-0.00318
+[INFO 2021-05-05 09:43:28,533 utils_callbacks.py:32] [lfw][170000]Accuracy-Flip: 0.99750+-0.00318
+2021-05-05 09:43:28,533 - INFO - [lfw][170000]Accuracy-Highest: 0.99767
+[INFO 2021-05-05 09:43:28,533 utils_callbacks.py:35] [lfw][170000]Accuracy-Highest: 0.99767
+testing verification..
+(12000, 512)
+infer time 71.93256799999996
+2021-05-05 09:44:44,139 - INFO - [cplfw][170000]XNorm: 4.590818
+[INFO 2021-05-05 09:44:44,139 utils_callbacks.py:31] [cplfw][170000]XNorm: 4.590818
+2021-05-05 09:44:44,140 - INFO - [cplfw][170000]Accuracy-Flip: 0.91967+-0.01282
+[INFO 2021-05-05 09:44:44,140 utils_callbacks.py:32] [cplfw][170000]Accuracy-Flip: 0.91967+-0.01282
+2021-05-05 09:44:44,140 - INFO - [cplfw][170000]Accuracy-Highest: 0.92317
+[INFO 2021-05-05 09:44:44,140 utils_callbacks.py:35] [cplfw][170000]Accuracy-Highest: 0.92317
+testing verification..
+(12000, 512)
+infer time 71.87249600000021
+2021-05-05 09:45:59,670 - INFO - [calfw][170000]XNorm: 4.794533
+[INFO 2021-05-05 09:45:59,670 utils_callbacks.py:31] [calfw][170000]XNorm: 4.794533
+2021-05-05 09:45:59,670 - INFO - [calfw][170000]Accuracy-Flip: 0.96067+-0.01083
+[INFO 2021-05-05 09:45:59,670 utils_callbacks.py:32] [calfw][170000]Accuracy-Flip: 0.96067+-0.01083
+2021-05-05 09:45:59,671 - INFO - [calfw][170000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 09:45:59,671 utils_callbacks.py:35] [calfw][170000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 09:48:48,070 - INFO - Speed 128.80 samples/sec   Loss 2.1023   Epoch: 14   Global Step: 170100   Required: 6 hours
+[INFO 2021-05-05 09:48:48,070 utils_callbacks.py:90] Speed 128.80 samples/sec   Loss 2.1023   Epoch: 14   Global Step: 170100   Required: 6 hours
+2021-05-05 09:51:39,613 - INFO - Speed 298.47 samples/sec   Loss 2.0969   Epoch: 14   Global Step: 170200   Required: 6 hours
+[INFO 2021-05-05 09:51:39,613 utils_callbacks.py:90] Speed 298.47 samples/sec   Loss 2.0969   Epoch: 14   Global Step: 170200   Required: 6 hours
+2021-05-05 09:54:30,269 - INFO - Speed 300.02 samples/sec   Loss 2.1407   Epoch: 14   Global Step: 170300   Required: 6 hours
+[INFO 2021-05-05 09:54:30,269 utils_callbacks.py:90] Speed 300.02 samples/sec   Loss 2.1407   Epoch: 14   Global Step: 170300   Required: 6 hours
+2021-05-05 09:57:21,655 - INFO - Speed 298.74 samples/sec   Loss 2.1025   Epoch: 14   Global Step: 170400   Required: 6 hours
+[INFO 2021-05-05 09:57:21,655 utils_callbacks.py:90] Speed 298.74 samples/sec   Loss 2.1025   Epoch: 14   Global Step: 170400   Required: 6 hours
+2021-05-05 10:00:12,943 - INFO - Speed 298.91 samples/sec   Loss 2.1494   Epoch: 14   Global Step: 170500   Required: 6 hours
+[INFO 2021-05-05 10:00:12,943 utils_callbacks.py:90] Speed 298.91 samples/sec   Loss 2.1494   Epoch: 14   Global Step: 170500   Required: 6 hours
+Epoch 15: LambdaDecay set learning rate to 0.0010000000000000002.
+Epoch 15: LambdaDecay set learning rate to 0.0010000000000000002.
+2021-05-05 10:03:09,637 - INFO - Speed 289.77 samples/sec   Loss 2.0719   Epoch: 15   Global Step: 170600   Required: 6 hours
+[INFO 2021-05-05 10:03:09,637 utils_callbacks.py:90] Speed 289.77 samples/sec   Loss 2.0719   Epoch: 15   Global Step: 170600   Required: 6 hours
+2021-05-05 10:06:00,768 - INFO - Speed 299.19 samples/sec   Loss 2.0658   Epoch: 15   Global Step: 170700   Required: 6 hours
+[INFO 2021-05-05 10:06:00,768 utils_callbacks.py:90] Speed 299.19 samples/sec   Loss 2.0658   Epoch: 15   Global Step: 170700   Required: 6 hours
+2021-05-05 10:08:51,253 - INFO - Speed 300.32 samples/sec   Loss 2.0500   Epoch: 15   Global Step: 170800   Required: 6 hours
+[INFO 2021-05-05 10:08:51,253 utils_callbacks.py:90] Speed 300.32 samples/sec   Loss 2.0500   Epoch: 15   Global Step: 170800   Required: 6 hours
+2021-05-05 10:11:42,322 - INFO - Speed 299.30 samples/sec   Loss 1.9992   Epoch: 15   Global Step: 170900   Required: 6 hours
+[INFO 2021-05-05 10:11:42,322 utils_callbacks.py:90] Speed 299.30 samples/sec   Loss 1.9992   Epoch: 15   Global Step: 170900   Required: 6 hours
+2021-05-05 10:14:33,789 - INFO - Speed 298.60 samples/sec   Loss 2.0560   Epoch: 15   Global Step: 171000   Required: 6 hours
+[INFO 2021-05-05 10:14:33,789 utils_callbacks.py:90] Speed 298.60 samples/sec   Loss 2.0560   Epoch: 15   Global Step: 171000   Required: 6 hours
+2021-05-05 10:17:25,123 - INFO - Speed 298.83 samples/sec   Loss 2.0151   Epoch: 15   Global Step: 171100   Required: 5 hours
+[INFO 2021-05-05 10:17:25,123 utils_callbacks.py:90] Speed 298.83 samples/sec   Loss 2.0151   Epoch: 15   Global Step: 171100   Required: 5 hours
+2021-05-05 10:20:16,217 - INFO - Speed 299.25 samples/sec   Loss 2.0342   Epoch: 15   Global Step: 171200   Required: 5 hours
+[INFO 2021-05-05 10:20:16,217 utils_callbacks.py:90] Speed 299.25 samples/sec   Loss 2.0342   Epoch: 15   Global Step: 171200   Required: 5 hours
+2021-05-05 10:23:07,460 - INFO - Speed 298.99 samples/sec   Loss 2.0051   Epoch: 15   Global Step: 171300   Required: 5 hours
+[INFO 2021-05-05 10:23:07,460 utils_callbacks.py:90] Speed 298.99 samples/sec   Loss 2.0051   Epoch: 15   Global Step: 171300   Required: 5 hours
+2021-05-05 10:25:58,582 - INFO - Speed 299.21 samples/sec   Loss 2.0514   Epoch: 15   Global Step: 171400   Required: 5 hours
+[INFO 2021-05-05 10:25:58,582 utils_callbacks.py:90] Speed 299.21 samples/sec   Loss 2.0514   Epoch: 15   Global Step: 171400   Required: 5 hours
+2021-05-05 10:28:49,419 - INFO - Speed 299.70 samples/sec   Loss 2.0202   Epoch: 15   Global Step: 171500   Required: 5 hours
+[INFO 2021-05-05 10:28:49,419 utils_callbacks.py:90] Speed 299.70 samples/sec   Loss 2.0202   Epoch: 15   Global Step: 171500   Required: 5 hours
+2021-05-05 10:31:40,677 - INFO - Speed 298.97 samples/sec   Loss 2.0120   Epoch: 15   Global Step: 171600   Required: 5 hours
+[INFO 2021-05-05 10:31:40,677 utils_callbacks.py:90] Speed 298.97 samples/sec   Loss 2.0120   Epoch: 15   Global Step: 171600   Required: 5 hours
+2021-05-05 10:34:31,434 - INFO - Speed 299.84 samples/sec   Loss 2.0452   Epoch: 15   Global Step: 171700   Required: 5 hours
+[INFO 2021-05-05 10:34:31,434 utils_callbacks.py:90] Speed 299.84 samples/sec   Loss 2.0452   Epoch: 15   Global Step: 171700   Required: 5 hours
+2021-05-05 10:37:22,266 - INFO - Speed 299.71 samples/sec   Loss 2.0643   Epoch: 15   Global Step: 171800   Required: 5 hours
+[INFO 2021-05-05 10:37:22,266 utils_callbacks.py:90] Speed 299.71 samples/sec   Loss 2.0643   Epoch: 15   Global Step: 171800   Required: 5 hours
+2021-05-05 10:40:13,770 - INFO - Speed 298.54 samples/sec   Loss 1.9805   Epoch: 15   Global Step: 171900   Required: 5 hours
+[INFO 2021-05-05 10:40:13,770 utils_callbacks.py:90] Speed 298.54 samples/sec   Loss 1.9805   Epoch: 15   Global Step: 171900   Required: 5 hours
+2021-05-05 10:43:04,742 - INFO - Speed 299.47 samples/sec   Loss 2.0075   Epoch: 15   Global Step: 172000   Required: 5 hours
+[INFO 2021-05-05 10:43:04,742 utils_callbacks.py:90] Speed 299.47 samples/sec   Loss 2.0075   Epoch: 15   Global Step: 172000   Required: 5 hours
+testing verification..
+(12000, 512)
+infer time 75.81983799999993
+2021-05-05 10:44:23,973 - INFO - [lfw][172000]XNorm: 4.810256
+[INFO 2021-05-05 10:44:23,973 utils_callbacks.py:31] [lfw][172000]XNorm: 4.810256
+2021-05-05 10:44:23,973 - INFO - [lfw][172000]Accuracy-Flip: 0.99717+-0.00334
+[INFO 2021-05-05 10:44:23,973 utils_callbacks.py:32] [lfw][172000]Accuracy-Flip: 0.99717+-0.00334
+2021-05-05 10:44:23,973 - INFO - [lfw][172000]Accuracy-Highest: 0.99767
+[INFO 2021-05-05 10:44:23,973 utils_callbacks.py:35] [lfw][172000]Accuracy-Highest: 0.99767
+testing verification..
+(12000, 512)
+infer time 73.32892599999987
+2021-05-05 10:45:40,984 - INFO - [cplfw][172000]XNorm: 4.587886
+[INFO 2021-05-05 10:45:40,984 utils_callbacks.py:31] [cplfw][172000]XNorm: 4.587886
+2021-05-05 10:45:40,984 - INFO - [cplfw][172000]Accuracy-Flip: 0.92017+-0.01343
+[INFO 2021-05-05 10:45:40,984 utils_callbacks.py:32] [cplfw][172000]Accuracy-Flip: 0.92017+-0.01343
+2021-05-05 10:45:40,984 - INFO - [cplfw][172000]Accuracy-Highest: 0.92317
+[INFO 2021-05-05 10:45:40,984 utils_callbacks.py:35] [cplfw][172000]Accuracy-Highest: 0.92317
+testing verification..
+(12000, 512)
+infer time 72.80744900000003
+2021-05-05 10:46:57,451 - INFO - [calfw][172000]XNorm: 4.785952
+[INFO 2021-05-05 10:46:57,451 utils_callbacks.py:31] [calfw][172000]XNorm: 4.785952
+2021-05-05 10:46:57,451 - INFO - [calfw][172000]Accuracy-Flip: 0.96000+-0.01204
+[INFO 2021-05-05 10:46:57,451 utils_callbacks.py:32] [calfw][172000]Accuracy-Flip: 0.96000+-0.01204
+2021-05-05 10:46:57,451 - INFO - [calfw][172000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 10:46:57,451 utils_callbacks.py:35] [calfw][172000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 10:49:45,259 - INFO - Speed 127.84 samples/sec   Loss 2.0127   Epoch: 15   Global Step: 172100   Required: 5 hours
+[INFO 2021-05-05 10:49:45,259 utils_callbacks.py:90] Speed 127.84 samples/sec   Loss 2.0127   Epoch: 15   Global Step: 172100   Required: 5 hours
+2021-05-05 10:52:35,796 - INFO - Speed 300.23 samples/sec   Loss 2.0122   Epoch: 15   Global Step: 172200   Required: 5 hours
+[INFO 2021-05-05 10:52:35,796 utils_callbacks.py:90] Speed 300.23 samples/sec   Loss 2.0122   Epoch: 15   Global Step: 172200   Required: 5 hours
+2021-05-05 10:55:26,648 - INFO - Speed 299.68 samples/sec   Loss 2.0325   Epoch: 15   Global Step: 172300   Required: 5 hours
+[INFO 2021-05-05 10:55:26,648 utils_callbacks.py:90] Speed 299.68 samples/sec   Loss 2.0325   Epoch: 15   Global Step: 172300   Required: 5 hours
+2021-05-05 10:58:17,765 - INFO - Speed 299.21 samples/sec   Loss 2.0095   Epoch: 15   Global Step: 172400   Required: 5 hours
+[INFO 2021-05-05 10:58:17,765 utils_callbacks.py:90] Speed 299.21 samples/sec   Loss 2.0095   Epoch: 15   Global Step: 172400   Required: 5 hours
+2021-05-05 11:01:08,942 - INFO - Speed 299.11 samples/sec   Loss 2.0134   Epoch: 15   Global Step: 172500   Required: 5 hours
+[INFO 2021-05-05 11:01:08,942 utils_callbacks.py:90] Speed 299.11 samples/sec   Loss 2.0134   Epoch: 15   Global Step: 172500   Required: 5 hours
+2021-05-05 11:04:00,483 - INFO - Speed 298.48 samples/sec   Loss 2.0217   Epoch: 15   Global Step: 172600   Required: 5 hours
+[INFO 2021-05-05 11:04:00,483 utils_callbacks.py:90] Speed 298.48 samples/sec   Loss 2.0217   Epoch: 15   Global Step: 172600   Required: 5 hours
+2021-05-05 11:06:51,794 - INFO - Speed 298.88 samples/sec   Loss 2.0099   Epoch: 15   Global Step: 172700   Required: 5 hours
+[INFO 2021-05-05 11:06:51,794 utils_callbacks.py:90] Speed 298.88 samples/sec   Loss 2.0099   Epoch: 15   Global Step: 172700   Required: 5 hours
+2021-05-05 11:09:42,857 - INFO - Speed 299.31 samples/sec   Loss 2.0140   Epoch: 15   Global Step: 172800   Required: 5 hours
+[INFO 2021-05-05 11:09:42,857 utils_callbacks.py:90] Speed 299.31 samples/sec   Loss 2.0140   Epoch: 15   Global Step: 172800   Required: 5 hours
+2021-05-05 11:12:33,486 - INFO - Speed 300.07 samples/sec   Loss 2.0085   Epoch: 15   Global Step: 172900   Required: 5 hours
+[INFO 2021-05-05 11:12:33,486 utils_callbacks.py:90] Speed 300.07 samples/sec   Loss 2.0085   Epoch: 15   Global Step: 172900   Required: 5 hours
+2021-05-05 11:15:24,362 - INFO - Speed 299.63 samples/sec   Loss 2.0513   Epoch: 15   Global Step: 173000   Required: 5 hours
+[INFO 2021-05-05 11:15:24,362 utils_callbacks.py:90] Speed 299.63 samples/sec   Loss 2.0513   Epoch: 15   Global Step: 173000   Required: 5 hours
+2021-05-05 11:18:16,136 - INFO - Speed 298.07 samples/sec   Loss 2.0194   Epoch: 15   Global Step: 173100   Required: 4 hours
+[INFO 2021-05-05 11:18:16,136 utils_callbacks.py:90] Speed 298.07 samples/sec   Loss 2.0194   Epoch: 15   Global Step: 173100   Required: 4 hours
+2021-05-05 11:21:06,803 - INFO - Speed 300.00 samples/sec   Loss 2.0071   Epoch: 15   Global Step: 173200   Required: 4 hours
+[INFO 2021-05-05 11:21:06,803 utils_callbacks.py:90] Speed 300.00 samples/sec   Loss 2.0071   Epoch: 15   Global Step: 173200   Required: 4 hours
+2021-05-05 11:23:58,241 - INFO - Speed 298.65 samples/sec   Loss 2.0438   Epoch: 15   Global Step: 173300   Required: 4 hours
+[INFO 2021-05-05 11:23:58,241 utils_callbacks.py:90] Speed 298.65 samples/sec   Loss 2.0438   Epoch: 15   Global Step: 173300   Required: 4 hours
+2021-05-05 11:26:49,474 - INFO - Speed 299.01 samples/sec   Loss 1.9998   Epoch: 15   Global Step: 173400   Required: 4 hours
+[INFO 2021-05-05 11:26:49,474 utils_callbacks.py:90] Speed 299.01 samples/sec   Loss 1.9998   Epoch: 15   Global Step: 173400   Required: 4 hours
+2021-05-05 11:29:39,810 - INFO - Speed 300.58 samples/sec   Loss 2.0450   Epoch: 15   Global Step: 173500   Required: 4 hours
+[INFO 2021-05-05 11:29:39,810 utils_callbacks.py:90] Speed 300.58 samples/sec   Loss 2.0450   Epoch: 15   Global Step: 173500   Required: 4 hours
+2021-05-05 11:32:31,292 - INFO - Speed 298.58 samples/sec   Loss 2.0691   Epoch: 15   Global Step: 173600   Required: 4 hours
+[INFO 2021-05-05 11:32:31,292 utils_callbacks.py:90] Speed 298.58 samples/sec   Loss 2.0691   Epoch: 15   Global Step: 173600   Required: 4 hours
+2021-05-05 11:35:22,125 - INFO - Speed 299.71 samples/sec   Loss 2.0275   Epoch: 15   Global Step: 173700   Required: 4 hours
+[INFO 2021-05-05 11:35:22,125 utils_callbacks.py:90] Speed 299.71 samples/sec   Loss 2.0275   Epoch: 15   Global Step: 173700   Required: 4 hours
+2021-05-05 11:38:13,063 - INFO - Speed 299.53 samples/sec   Loss 2.0416   Epoch: 15   Global Step: 173800   Required: 4 hours
+[INFO 2021-05-05 11:38:13,063 utils_callbacks.py:90] Speed 299.53 samples/sec   Loss 2.0416   Epoch: 15   Global Step: 173800   Required: 4 hours
+2021-05-05 11:41:04,386 - INFO - Speed 298.85 samples/sec   Loss 2.0530   Epoch: 15   Global Step: 173900   Required: 4 hours
+[INFO 2021-05-05 11:41:04,386 utils_callbacks.py:90] Speed 298.85 samples/sec   Loss 2.0530   Epoch: 15   Global Step: 173900   Required: 4 hours
+2021-05-05 11:43:55,953 - INFO - Speed 298.43 samples/sec   Loss 2.0274   Epoch: 15   Global Step: 174000   Required: 4 hours
+[INFO 2021-05-05 11:43:55,953 utils_callbacks.py:90] Speed 298.43 samples/sec   Loss 2.0274   Epoch: 15   Global Step: 174000   Required: 4 hours
+testing verification..
+(12000, 512)
+infer time 74.82945800000003
+2021-05-05 11:45:14,200 - INFO - [lfw][174000]XNorm: 4.816884
+[INFO 2021-05-05 11:45:14,200 utils_callbacks.py:31] [lfw][174000]XNorm: 4.816884
+2021-05-05 11:45:14,201 - INFO - [lfw][174000]Accuracy-Flip: 0.99767+-0.00300
+[INFO 2021-05-05 11:45:14,201 utils_callbacks.py:32] [lfw][174000]Accuracy-Flip: 0.99767+-0.00300
+2021-05-05 11:45:14,201 - INFO - [lfw][174000]Accuracy-Highest: 0.99767
+[INFO 2021-05-05 11:45:14,201 utils_callbacks.py:35] [lfw][174000]Accuracy-Highest: 0.99767
+testing verification..
+(12000, 512)
+infer time 72.33265499999986
+2021-05-05 11:46:30,198 - INFO - [cplfw][174000]XNorm: 4.609631
+[INFO 2021-05-05 11:46:30,198 utils_callbacks.py:31] [cplfw][174000]XNorm: 4.609631
+2021-05-05 11:46:30,198 - INFO - [cplfw][174000]Accuracy-Flip: 0.91783+-0.01436
+[INFO 2021-05-05 11:46:30,198 utils_callbacks.py:32] [cplfw][174000]Accuracy-Flip: 0.91783+-0.01436
+2021-05-05 11:46:30,198 - INFO - [cplfw][174000]Accuracy-Highest: 0.92317
+[INFO 2021-05-05 11:46:30,198 utils_callbacks.py:35] [cplfw][174000]Accuracy-Highest: 0.92317
+testing verification..
+(12000, 512)
+infer time 71.57414500000006
+2021-05-05 11:47:45,397 - INFO - [calfw][174000]XNorm: 4.790861
+[INFO 2021-05-05 11:47:45,397 utils_callbacks.py:31] [calfw][174000]XNorm: 4.790861
+2021-05-05 11:47:45,397 - INFO - [calfw][174000]Accuracy-Flip: 0.96033+-0.01137
+[INFO 2021-05-05 11:47:45,397 utils_callbacks.py:32] [calfw][174000]Accuracy-Flip: 0.96033+-0.01137
+2021-05-05 11:47:45,397 - INFO - [calfw][174000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 11:47:45,397 utils_callbacks.py:35] [calfw][174000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 11:50:33,510 - INFO - Speed 128.79 samples/sec   Loss 2.0170   Epoch: 15   Global Step: 174100   Required: 4 hours
+[INFO 2021-05-05 11:50:33,510 utils_callbacks.py:90] Speed 128.79 samples/sec   Loss 2.0170   Epoch: 15   Global Step: 174100   Required: 4 hours
+2021-05-05 11:53:26,800 - INFO - Speed 295.46 samples/sec   Loss 2.0394   Epoch: 15   Global Step: 174200   Required: 4 hours
+[INFO 2021-05-05 11:53:26,800 utils_callbacks.py:90] Speed 295.46 samples/sec   Loss 2.0394   Epoch: 15   Global Step: 174200   Required: 4 hours
+2021-05-05 11:56:18,538 - INFO - Speed 298.13 samples/sec   Loss 2.0426   Epoch: 15   Global Step: 174300   Required: 4 hours
+[INFO 2021-05-05 11:56:18,538 utils_callbacks.py:90] Speed 298.13 samples/sec   Loss 2.0426   Epoch: 15   Global Step: 174300   Required: 4 hours
+2021-05-05 11:59:10,788 - INFO - Speed 297.25 samples/sec   Loss 2.0131   Epoch: 15   Global Step: 174400   Required: 4 hours
+[INFO 2021-05-05 11:59:10,788 utils_callbacks.py:90] Speed 297.25 samples/sec   Loss 2.0131   Epoch: 15   Global Step: 174400   Required: 4 hours
+2021-05-05 12:02:04,100 - INFO - Speed 295.42 samples/sec   Loss 2.0759   Epoch: 15   Global Step: 174500   Required: 4 hours
+[INFO 2021-05-05 12:02:04,100 utils_callbacks.py:90] Speed 295.42 samples/sec   Loss 2.0759   Epoch: 15   Global Step: 174500   Required: 4 hours
+2021-05-05 12:04:56,401 - INFO - Speed 297.16 samples/sec   Loss 2.0270   Epoch: 15   Global Step: 174600   Required: 4 hours
+[INFO 2021-05-05 12:04:56,401 utils_callbacks.py:90] Speed 297.16 samples/sec   Loss 2.0270   Epoch: 15   Global Step: 174600   Required: 4 hours
+2021-05-05 12:07:49,478 - INFO - Speed 295.83 samples/sec   Loss 2.0063   Epoch: 15   Global Step: 174700   Required: 4 hours
+[INFO 2021-05-05 12:07:49,478 utils_callbacks.py:90] Speed 295.83 samples/sec   Loss 2.0063   Epoch: 15   Global Step: 174700   Required: 4 hours
+2021-05-05 12:10:41,592 - INFO - Speed 297.48 samples/sec   Loss 2.0491   Epoch: 15   Global Step: 174800   Required: 4 hours
+[INFO 2021-05-05 12:10:41,592 utils_callbacks.py:90] Speed 297.48 samples/sec   Loss 2.0491   Epoch: 15   Global Step: 174800   Required: 4 hours
+2021-05-05 12:13:33,037 - INFO - Speed 298.64 samples/sec   Loss 2.0117   Epoch: 15   Global Step: 174900   Required: 4 hours
+[INFO 2021-05-05 12:13:33,037 utils_callbacks.py:90] Speed 298.64 samples/sec   Loss 2.0117   Epoch: 15   Global Step: 174900   Required: 4 hours
+2021-05-05 12:16:25,621 - INFO - Speed 296.67 samples/sec   Loss 2.0228   Epoch: 15   Global Step: 175000   Required: 4 hours
+[INFO 2021-05-05 12:16:25,621 utils_callbacks.py:90] Speed 296.67 samples/sec   Loss 2.0228   Epoch: 15   Global Step: 175000   Required: 4 hours
+2021-05-05 12:19:17,208 - INFO - Speed 298.39 samples/sec   Loss 2.0424   Epoch: 15   Global Step: 175100   Required: 3 hours
+[INFO 2021-05-05 12:19:17,208 utils_callbacks.py:90] Speed 298.39 samples/sec   Loss 2.0424   Epoch: 15   Global Step: 175100   Required: 3 hours
+2021-05-05 12:22:09,100 - INFO - Speed 297.87 samples/sec   Loss 2.0235   Epoch: 15   Global Step: 175200   Required: 3 hours
+[INFO 2021-05-05 12:22:09,100 utils_callbacks.py:90] Speed 297.87 samples/sec   Loss 2.0235   Epoch: 15   Global Step: 175200   Required: 3 hours
+2021-05-05 12:25:01,188 - INFO - Speed 297.52 samples/sec   Loss 2.0271   Epoch: 15   Global Step: 175300   Required: 3 hours
+[INFO 2021-05-05 12:25:01,188 utils_callbacks.py:90] Speed 297.52 samples/sec   Loss 2.0271   Epoch: 15   Global Step: 175300   Required: 3 hours
+2021-05-05 12:27:52,836 - INFO - Speed 298.29 samples/sec   Loss 2.0414   Epoch: 15   Global Step: 175400   Required: 3 hours
+[INFO 2021-05-05 12:27:52,836 utils_callbacks.py:90] Speed 298.29 samples/sec   Loss 2.0414   Epoch: 15   Global Step: 175400   Required: 3 hours
+2021-05-05 12:30:45,371 - INFO - Speed 296.75 samples/sec   Loss 2.0425   Epoch: 15   Global Step: 175500   Required: 3 hours
+[INFO 2021-05-05 12:30:45,371 utils_callbacks.py:90] Speed 296.75 samples/sec   Loss 2.0425   Epoch: 15   Global Step: 175500   Required: 3 hours
+2021-05-05 12:33:36,932 - INFO - Speed 298.44 samples/sec   Loss 2.0420   Epoch: 15   Global Step: 175600   Required: 3 hours
+[INFO 2021-05-05 12:33:36,932 utils_callbacks.py:90] Speed 298.44 samples/sec   Loss 2.0420   Epoch: 15   Global Step: 175600   Required: 3 hours
+2021-05-05 12:36:29,954 - INFO - Speed 295.92 samples/sec   Loss 2.0592   Epoch: 15   Global Step: 175700   Required: 3 hours
+[INFO 2021-05-05 12:36:29,954 utils_callbacks.py:90] Speed 295.92 samples/sec   Loss 2.0592   Epoch: 15   Global Step: 175700   Required: 3 hours
+2021-05-05 12:39:23,080 - INFO - Speed 295.74 samples/sec   Loss 2.0700   Epoch: 15   Global Step: 175800   Required: 3 hours
+[INFO 2021-05-05 12:39:23,080 utils_callbacks.py:90] Speed 295.74 samples/sec   Loss 2.0700   Epoch: 15   Global Step: 175800   Required: 3 hours
+2021-05-05 12:42:14,996 - INFO - Speed 297.82 samples/sec   Loss 2.0323   Epoch: 15   Global Step: 175900   Required: 3 hours
+[INFO 2021-05-05 12:42:14,996 utils_callbacks.py:90] Speed 297.82 samples/sec   Loss 2.0323   Epoch: 15   Global Step: 175900   Required: 3 hours
+2021-05-05 12:45:08,554 - INFO - Speed 295.01 samples/sec   Loss 2.0266   Epoch: 15   Global Step: 176000   Required: 3 hours
+[INFO 2021-05-05 12:45:08,554 utils_callbacks.py:90] Speed 295.01 samples/sec   Loss 2.0266   Epoch: 15   Global Step: 176000   Required: 3 hours
+testing verification..
+(12000, 512)
+infer time 74.48093099999993
+2021-05-05 12:46:26,399 - INFO - [lfw][176000]XNorm: 4.817840
+[INFO 2021-05-05 12:46:26,399 utils_callbacks.py:31] [lfw][176000]XNorm: 4.817840
+2021-05-05 12:46:26,399 - INFO - [lfw][176000]Accuracy-Flip: 0.99700+-0.00332
+[INFO 2021-05-05 12:46:26,399 utils_callbacks.py:32] [lfw][176000]Accuracy-Flip: 0.99700+-0.00332
+2021-05-05 12:46:26,399 - INFO - [lfw][176000]Accuracy-Highest: 0.99767
+[INFO 2021-05-05 12:46:26,399 utils_callbacks.py:35] [lfw][176000]Accuracy-Highest: 0.99767
+testing verification..
+(12000, 512)
+infer time 73.68921699999996
+2021-05-05 12:47:43,793 - INFO - [cplfw][176000]XNorm: 4.583729
+[INFO 2021-05-05 12:47:43,793 utils_callbacks.py:31] [cplfw][176000]XNorm: 4.583729
+2021-05-05 12:47:43,793 - INFO - [cplfw][176000]Accuracy-Flip: 0.91933+-0.01356
+[INFO 2021-05-05 12:47:43,793 utils_callbacks.py:32] [cplfw][176000]Accuracy-Flip: 0.91933+-0.01356
+2021-05-05 12:47:43,793 - INFO - [cplfw][176000]Accuracy-Highest: 0.92317
+[INFO 2021-05-05 12:47:43,793 utils_callbacks.py:35] [cplfw][176000]Accuracy-Highest: 0.92317
+testing verification..
+(12000, 512)
+infer time 77.66419800000004
+2021-05-05 12:49:05,234 - INFO - [calfw][176000]XNorm: 4.789220
+[INFO 2021-05-05 12:49:05,234 utils_callbacks.py:31] [calfw][176000]XNorm: 4.789220
+2021-05-05 12:49:05,234 - INFO - [calfw][176000]Accuracy-Flip: 0.95933+-0.01126
+[INFO 2021-05-05 12:49:05,234 utils_callbacks.py:32] [calfw][176000]Accuracy-Flip: 0.95933+-0.01126
+2021-05-05 12:49:05,234 - INFO - [calfw][176000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 12:49:05,234 utils_callbacks.py:35] [calfw][176000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 12:51:53,666 - INFO - Speed 126.39 samples/sec   Loss 2.0235   Epoch: 15   Global Step: 176100   Required: 3 hours
+[INFO 2021-05-05 12:51:53,666 utils_callbacks.py:90] Speed 126.39 samples/sec   Loss 2.0235   Epoch: 15   Global Step: 176100   Required: 3 hours
+2021-05-05 12:54:46,764 - INFO - Speed 295.79 samples/sec   Loss 2.0478   Epoch: 15   Global Step: 176200   Required: 3 hours
+[INFO 2021-05-05 12:54:46,764 utils_callbacks.py:90] Speed 295.79 samples/sec   Loss 2.0478   Epoch: 15   Global Step: 176200   Required: 3 hours
+2021-05-05 12:57:39,055 - INFO - Speed 297.18 samples/sec   Loss 2.0661   Epoch: 15   Global Step: 176300   Required: 3 hours
+[INFO 2021-05-05 12:57:39,055 utils_callbacks.py:90] Speed 297.18 samples/sec   Loss 2.0661   Epoch: 15   Global Step: 176300   Required: 3 hours
+2021-05-05 13:00:31,440 - INFO - Speed 297.01 samples/sec   Loss 2.0205   Epoch: 15   Global Step: 176400   Required: 3 hours
+[INFO 2021-05-05 13:00:31,440 utils_callbacks.py:90] Speed 297.01 samples/sec   Loss 2.0205   Epoch: 15   Global Step: 176400   Required: 3 hours
+2021-05-05 13:03:24,486 - INFO - Speed 295.88 samples/sec   Loss 2.0110   Epoch: 15   Global Step: 176500   Required: 3 hours
+[INFO 2021-05-05 13:03:24,486 utils_callbacks.py:90] Speed 295.88 samples/sec   Loss 2.0110   Epoch: 15   Global Step: 176500   Required: 3 hours
+2021-05-05 13:06:15,659 - INFO - Speed 299.12 samples/sec   Loss 2.0674   Epoch: 15   Global Step: 176600   Required: 3 hours
+[INFO 2021-05-05 13:06:15,659 utils_callbacks.py:90] Speed 299.12 samples/sec   Loss 2.0674   Epoch: 15   Global Step: 176600   Required: 3 hours
+2021-05-05 13:09:08,046 - INFO - Speed 297.01 samples/sec   Loss 2.0719   Epoch: 15   Global Step: 176700   Required: 3 hours
+[INFO 2021-05-05 13:09:08,046 utils_callbacks.py:90] Speed 297.01 samples/sec   Loss 2.0719   Epoch: 15   Global Step: 176700   Required: 3 hours
+2021-05-05 13:11:58,952 - INFO - Speed 299.58 samples/sec   Loss 2.0137   Epoch: 15   Global Step: 176800   Required: 3 hours
+[INFO 2021-05-05 13:11:58,952 utils_callbacks.py:90] Speed 299.58 samples/sec   Loss 2.0137   Epoch: 15   Global Step: 176800   Required: 3 hours
+2021-05-05 13:14:50,667 - INFO - Speed 298.17 samples/sec   Loss 2.0638   Epoch: 15   Global Step: 176900   Required: 3 hours
+[INFO 2021-05-05 13:14:50,667 utils_callbacks.py:90] Speed 298.17 samples/sec   Loss 2.0638   Epoch: 15   Global Step: 176900   Required: 3 hours
+2021-05-05 13:17:43,612 - INFO - Speed 296.05 samples/sec   Loss 2.0443   Epoch: 15   Global Step: 177000   Required: 3 hours
+[INFO 2021-05-05 13:17:43,612 utils_callbacks.py:90] Speed 296.05 samples/sec   Loss 2.0443   Epoch: 15   Global Step: 177000   Required: 3 hours
+2021-05-05 13:20:35,229 - INFO - Speed 298.34 samples/sec   Loss 2.0090   Epoch: 15   Global Step: 177100   Required: 2 hours
+[INFO 2021-05-05 13:20:35,229 utils_callbacks.py:90] Speed 298.34 samples/sec   Loss 2.0090   Epoch: 15   Global Step: 177100   Required: 2 hours
+2021-05-05 13:23:28,326 - INFO - Speed 295.79 samples/sec   Loss 2.0548   Epoch: 15   Global Step: 177200   Required: 2 hours
+[INFO 2021-05-05 13:23:28,326 utils_callbacks.py:90] Speed 295.79 samples/sec   Loss 2.0548   Epoch: 15   Global Step: 177200   Required: 2 hours
+2021-05-05 13:26:19,966 - INFO - Speed 298.30 samples/sec   Loss 2.0776   Epoch: 15   Global Step: 177300   Required: 2 hours
+[INFO 2021-05-05 13:26:19,966 utils_callbacks.py:90] Speed 298.30 samples/sec   Loss 2.0776   Epoch: 15   Global Step: 177300   Required: 2 hours
+2021-05-05 13:29:13,081 - INFO - Speed 295.76 samples/sec   Loss 2.0300   Epoch: 15   Global Step: 177400   Required: 2 hours
+[INFO 2021-05-05 13:29:13,081 utils_callbacks.py:90] Speed 295.76 samples/sec   Loss 2.0300   Epoch: 15   Global Step: 177400   Required: 2 hours
+2021-05-05 13:32:05,787 - INFO - Speed 296.46 samples/sec   Loss 2.0652   Epoch: 15   Global Step: 177500   Required: 2 hours
+[INFO 2021-05-05 13:32:05,787 utils_callbacks.py:90] Speed 296.46 samples/sec   Loss 2.0652   Epoch: 15   Global Step: 177500   Required: 2 hours
+2021-05-05 13:34:56,873 - INFO - Speed 299.27 samples/sec   Loss 2.0343   Epoch: 15   Global Step: 177600   Required: 2 hours
+[INFO 2021-05-05 13:34:56,873 utils_callbacks.py:90] Speed 299.27 samples/sec   Loss 2.0343   Epoch: 15   Global Step: 177600   Required: 2 hours
+2021-05-05 13:37:49,546 - INFO - Speed 296.52 samples/sec   Loss 2.0949   Epoch: 15   Global Step: 177700   Required: 2 hours
+[INFO 2021-05-05 13:37:49,546 utils_callbacks.py:90] Speed 296.52 samples/sec   Loss 2.0949   Epoch: 15   Global Step: 177700   Required: 2 hours
+2021-05-05 13:40:40,296 - INFO - Speed 299.86 samples/sec   Loss 2.0550   Epoch: 15   Global Step: 177800   Required: 2 hours
+[INFO 2021-05-05 13:40:40,296 utils_callbacks.py:90] Speed 299.86 samples/sec   Loss 2.0550   Epoch: 15   Global Step: 177800   Required: 2 hours
+2021-05-05 13:43:30,295 - INFO - Speed 301.18 samples/sec   Loss 2.0795   Epoch: 15   Global Step: 177900   Required: 2 hours
+[INFO 2021-05-05 13:43:30,295 utils_callbacks.py:90] Speed 301.18 samples/sec   Loss 2.0795   Epoch: 15   Global Step: 177900   Required: 2 hours
+2021-05-05 13:46:21,177 - INFO - Speed 299.62 samples/sec   Loss 2.0251   Epoch: 15   Global Step: 178000   Required: 2 hours
+[INFO 2021-05-05 13:46:21,177 utils_callbacks.py:90] Speed 299.62 samples/sec   Loss 2.0251   Epoch: 15   Global Step: 178000   Required: 2 hours
+testing verification..
+(12000, 512)
+infer time 77.12739500000009
+2021-05-05 13:47:41,939 - INFO - [lfw][178000]XNorm: 4.772268
+[INFO 2021-05-05 13:47:41,939 utils_callbacks.py:31] [lfw][178000]XNorm: 4.772268
+2021-05-05 13:47:41,939 - INFO - [lfw][178000]Accuracy-Flip: 0.99717+-0.00317
+[INFO 2021-05-05 13:47:41,939 utils_callbacks.py:32] [lfw][178000]Accuracy-Flip: 0.99717+-0.00317
+2021-05-05 13:47:41,939 - INFO - [lfw][178000]Accuracy-Highest: 0.99767
+[INFO 2021-05-05 13:47:41,939 utils_callbacks.py:35] [lfw][178000]Accuracy-Highest: 0.99767
+testing verification..
+(12000, 512)
+infer time 76.48907300000006
+2021-05-05 13:49:02,247 - INFO - [cplfw][178000]XNorm: 4.533543
+[INFO 2021-05-05 13:49:02,247 utils_callbacks.py:31] [cplfw][178000]XNorm: 4.533543
+2021-05-05 13:49:02,248 - INFO - [cplfw][178000]Accuracy-Flip: 0.92200+-0.01433
+[INFO 2021-05-05 13:49:02,248 utils_callbacks.py:32] [cplfw][178000]Accuracy-Flip: 0.92200+-0.01433
+2021-05-05 13:49:02,248 - INFO - [cplfw][178000]Accuracy-Highest: 0.92317
+[INFO 2021-05-05 13:49:02,248 utils_callbacks.py:35] [cplfw][178000]Accuracy-Highest: 0.92317
+testing verification..
+(12000, 512)
+infer time 79.08882000000004
+2021-05-05 13:50:25,310 - INFO - [calfw][178000]XNorm: 4.748478
+[INFO 2021-05-05 13:50:25,310 utils_callbacks.py:31] [calfw][178000]XNorm: 4.748478
+2021-05-05 13:50:25,310 - INFO - [calfw][178000]Accuracy-Flip: 0.95917+-0.01136
+[INFO 2021-05-05 13:50:25,310 utils_callbacks.py:32] [calfw][178000]Accuracy-Flip: 0.95917+-0.01136
+2021-05-05 13:50:25,310 - INFO - [calfw][178000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 13:50:25,310 utils_callbacks.py:35] [calfw][178000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 13:53:18,962 - INFO - Speed 122.55 samples/sec   Loss 2.0882   Epoch: 15   Global Step: 178100   Required: 2 hours
+[INFO 2021-05-05 13:53:18,962 utils_callbacks.py:90] Speed 122.55 samples/sec   Loss 2.0882   Epoch: 15   Global Step: 178100   Required: 2 hours
+2021-05-05 13:56:16,624 - INFO - Speed 288.19 samples/sec   Loss 2.0600   Epoch: 15   Global Step: 178200   Required: 2 hours
+[INFO 2021-05-05 13:56:16,624 utils_callbacks.py:90] Speed 288.19 samples/sec   Loss 2.0600   Epoch: 15   Global Step: 178200   Required: 2 hours
+2021-05-05 13:59:18,964 - INFO - Speed 281.39 samples/sec   Loss 2.0693   Epoch: 15   Global Step: 178300   Required: 2 hours
+[INFO 2021-05-05 13:59:18,964 utils_callbacks.py:90] Speed 281.39 samples/sec   Loss 2.0693   Epoch: 15   Global Step: 178300   Required: 2 hours
+2021-05-05 14:02:18,578 - INFO - Speed 285.06 samples/sec   Loss 2.0353   Epoch: 15   Global Step: 178400   Required: 2 hours
+[INFO 2021-05-05 14:02:18,578 utils_callbacks.py:90] Speed 285.06 samples/sec   Loss 2.0353   Epoch: 15   Global Step: 178400   Required: 2 hours
+2021-05-05 14:05:21,282 - INFO - Speed 280.24 samples/sec   Loss 2.0470   Epoch: 15   Global Step: 178500   Required: 2 hours
+[INFO 2021-05-05 14:05:21,282 utils_callbacks.py:90] Speed 280.24 samples/sec   Loss 2.0470   Epoch: 15   Global Step: 178500   Required: 2 hours
+2021-05-05 14:08:24,203 - INFO - Speed 279.91 samples/sec   Loss 2.0519   Epoch: 15   Global Step: 178600   Required: 2 hours
+[INFO 2021-05-05 14:08:24,203 utils_callbacks.py:90] Speed 279.91 samples/sec   Loss 2.0519   Epoch: 15   Global Step: 178600   Required: 2 hours
+2021-05-05 14:11:28,474 - INFO - Speed 277.86 samples/sec   Loss 2.0444   Epoch: 15   Global Step: 178700   Required: 2 hours
+[INFO 2021-05-05 14:11:28,474 utils_callbacks.py:90] Speed 277.86 samples/sec   Loss 2.0444   Epoch: 15   Global Step: 178700   Required: 2 hours
+2021-05-05 14:14:31,756 - INFO - Speed 279.35 samples/sec   Loss 2.0109   Epoch: 15   Global Step: 178800   Required: 2 hours
+[INFO 2021-05-05 14:14:31,756 utils_callbacks.py:90] Speed 279.35 samples/sec   Loss 2.0109   Epoch: 15   Global Step: 178800   Required: 2 hours
+2021-05-05 14:17:37,283 - INFO - Speed 275.97 samples/sec   Loss 2.0162   Epoch: 15   Global Step: 178900   Required: 2 hours
+[INFO 2021-05-05 14:17:37,283 utils_callbacks.py:90] Speed 275.97 samples/sec   Loss 2.0162   Epoch: 15   Global Step: 178900   Required: 2 hours
+2021-05-05 14:20:40,188 - INFO - Speed 279.93 samples/sec   Loss 2.0699   Epoch: 15   Global Step: 179000   Required: 1 hours
+[INFO 2021-05-05 14:20:40,188 utils_callbacks.py:90] Speed 279.93 samples/sec   Loss 2.0699   Epoch: 15   Global Step: 179000   Required: 1 hours
+2021-05-05 14:23:46,780 - INFO - Speed 274.40 samples/sec   Loss 2.0371   Epoch: 15   Global Step: 179100   Required: 1 hours
+[INFO 2021-05-05 14:23:46,780 utils_callbacks.py:90] Speed 274.40 samples/sec   Loss 2.0371   Epoch: 15   Global Step: 179100   Required: 1 hours
+2021-05-05 14:26:57,239 - INFO - Speed 268.83 samples/sec   Loss 2.0607   Epoch: 15   Global Step: 179200   Required: 1 hours
+[INFO 2021-05-05 14:26:57,239 utils_callbacks.py:90] Speed 268.83 samples/sec   Loss 2.0607   Epoch: 15   Global Step: 179200   Required: 1 hours
+2021-05-05 14:30:07,735 - INFO - Speed 268.78 samples/sec   Loss 2.0446   Epoch: 15   Global Step: 179300   Required: 1 hours
+[INFO 2021-05-05 14:30:07,735 utils_callbacks.py:90] Speed 268.78 samples/sec   Loss 2.0446   Epoch: 15   Global Step: 179300   Required: 1 hours
+2021-05-05 14:33:20,405 - INFO - Speed 265.74 samples/sec   Loss 2.0313   Epoch: 15   Global Step: 179400   Required: 1 hours
+[INFO 2021-05-05 14:33:20,405 utils_callbacks.py:90] Speed 265.74 samples/sec   Loss 2.0313   Epoch: 15   Global Step: 179400   Required: 1 hours
+2021-05-05 14:36:29,084 - INFO - Speed 271.36 samples/sec   Loss 2.0398   Epoch: 15   Global Step: 179500   Required: 1 hours
+[INFO 2021-05-05 14:36:29,084 utils_callbacks.py:90] Speed 271.36 samples/sec   Loss 2.0398   Epoch: 15   Global Step: 179500   Required: 1 hours
+2021-05-05 14:39:41,393 - INFO - Speed 266.24 samples/sec   Loss 2.0566   Epoch: 15   Global Step: 179600   Required: 1 hours
+[INFO 2021-05-05 14:39:41,393 utils_callbacks.py:90] Speed 266.24 samples/sec   Loss 2.0566   Epoch: 15   Global Step: 179600   Required: 1 hours
+2021-05-05 14:42:50,464 - INFO - Speed 270.80 samples/sec   Loss 2.0844   Epoch: 15   Global Step: 179700   Required: 1 hours
+[INFO 2021-05-05 14:42:50,464 utils_callbacks.py:90] Speed 270.80 samples/sec   Loss 2.0844   Epoch: 15   Global Step: 179700   Required: 1 hours
+2021-05-05 14:46:00,995 - INFO - Speed 268.73 samples/sec   Loss 2.0992   Epoch: 15   Global Step: 179800   Required: 1 hours
+[INFO 2021-05-05 14:46:00,995 utils_callbacks.py:90] Speed 268.73 samples/sec   Loss 2.0992   Epoch: 15   Global Step: 179800   Required: 1 hours
+2021-05-05 14:49:10,392 - INFO - Speed 270.33 samples/sec   Loss 2.0635   Epoch: 15   Global Step: 179900   Required: 1 hours
+[INFO 2021-05-05 14:49:10,392 utils_callbacks.py:90] Speed 270.33 samples/sec   Loss 2.0635   Epoch: 15   Global Step: 179900   Required: 1 hours
+2021-05-05 14:52:20,553 - INFO - Speed 269.25 samples/sec   Loss 2.0111   Epoch: 15   Global Step: 180000   Required: 1 hours
+[INFO 2021-05-05 14:52:20,553 utils_callbacks.py:90] Speed 269.25 samples/sec   Loss 2.0111   Epoch: 15   Global Step: 180000   Required: 1 hours
+testing verification..
+(12000, 512)
+infer time 82.65856399999987
+2021-05-05 14:53:46,741 - INFO - [lfw][180000]XNorm: 4.813896
+[INFO 2021-05-05 14:53:46,741 utils_callbacks.py:31] [lfw][180000]XNorm: 4.813896
+2021-05-05 14:53:46,741 - INFO - [lfw][180000]Accuracy-Flip: 0.99750+-0.00318
+[INFO 2021-05-05 14:53:46,741 utils_callbacks.py:32] [lfw][180000]Accuracy-Flip: 0.99750+-0.00318
+2021-05-05 14:53:46,741 - INFO - [lfw][180000]Accuracy-Highest: 0.99767
+[INFO 2021-05-05 14:53:46,741 utils_callbacks.py:35] [lfw][180000]Accuracy-Highest: 0.99767
+testing verification..
+(12000, 512)
+infer time 79.51626000000023
+2021-05-05 14:55:10,076 - INFO - [cplfw][180000]XNorm: 4.594796
+[INFO 2021-05-05 14:55:10,076 utils_callbacks.py:31] [cplfw][180000]XNorm: 4.594796
+2021-05-05 14:55:10,076 - INFO - [cplfw][180000]Accuracy-Flip: 0.92117+-0.01420
+[INFO 2021-05-05 14:55:10,076 utils_callbacks.py:32] [cplfw][180000]Accuracy-Flip: 0.92117+-0.01420
+2021-05-05 14:55:10,076 - INFO - [cplfw][180000]Accuracy-Highest: 0.92317
+[INFO 2021-05-05 14:55:10,076 utils_callbacks.py:35] [cplfw][180000]Accuracy-Highest: 0.92317
+testing verification..
+(12000, 512)
+infer time 78.38316500000006
+2021-05-05 14:56:32,165 - INFO - [calfw][180000]XNorm: 4.785535
+[INFO 2021-05-05 14:56:32,165 utils_callbacks.py:31] [calfw][180000]XNorm: 4.785535
+2021-05-05 14:56:32,165 - INFO - [calfw][180000]Accuracy-Flip: 0.96017+-0.01139
+[INFO 2021-05-05 14:56:32,165 utils_callbacks.py:32] [calfw][180000]Accuracy-Flip: 0.96017+-0.01139
+2021-05-05 14:56:32,165 - INFO - [calfw][180000]Accuracy-Highest: 0.96067
+[INFO 2021-05-05 14:56:32,165 utils_callbacks.py:35] [calfw][180000]Accuracy-Highest: 0.96067
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/nn/layer/norm.py:648: UserWarning: When training, we now always track global mean and variance.
+  "When training, we now always track global mean and variance.")
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/tensor/creation.py:143: DeprecationWarning: `np.object` is a deprecated alias for the builtin `object`. To silence this warning, use `object` by itself. Doing this will not modify any behavior and is safe. 
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if data.dtype == np.object:
+/opt/conda/envs/python35-paddle120-env/lib/python3.7/site-packages/paddle/fluid/dataloader/dataloader_iter.py:89: DeprecationWarning: `np.bool` is a deprecated alias for the builtin `bool`. To silence this warning, use `bool` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.bool_` here.
+Deprecated in NumPy 1.20; for more details and guidance: https://numpy.org/devdocs/release/1.20.0-notes.html#deprecations
+  if isinstance(slot[0], (np.ndarray, np.bool, numbers.Number)):
+2021-05-05 14:59:37,773 - INFO - Speed 117.10 samples/sec   Loss 2.0314   Epoch: 15   Global Step: 180100   Required: 1 hours
+[INFO 2021-05-05 14:59:37,773 utils_callbacks.py:90] Speed 117.10 samples/sec   Loss 2.0314   Epoch: 15   Global Step: 180100   Required: 1 hours
+2021-05-05 15:02:49,409 - INFO - Speed 267.18 samples/sec   Loss 2.0625   Epoch: 15   Global Step: 180200   Required: 1 hours
+[INFO 2021-05-05 15:02:49,409 utils_callbacks.py:90] Speed 267.18 samples/sec   Loss 2.0625   Epoch: 15   Global Step: 180200   Required: 1 hours
+2021-05-05 15:06:03,741 - INFO - Speed 263.47 samples/sec   Loss 2.0792   Epoch: 15   Global Step: 180300   Required: 1 hours
+[INFO 2021-05-05 15:06:03,741 utils_callbacks.py:90] Speed 263.47 samples/sec   Loss 2.0792   Epoch: 15   Global Step: 180300   Required: 1 hours
+2021-05-05 15:09:19,356 - INFO - Speed 261.74 samples/sec   Loss 2.0606   Epoch: 15   Global Step: 180400   Required: 1 hours
+[INFO 2021-05-05 15:09:19,356 utils_callbacks.py:90] Speed 261.74 samples/sec   Loss 2.0606   Epoch: 15   Global Step: 180400   Required: 1 hours
+2021-05-05 15:12:32,341 - INFO - Speed 265.31 samples/sec   Loss 2.0611   Epoch: 15   Global Step: 180500   Required: 1 hours
+[INFO 2021-05-05 15:12:32,341 utils_callbacks.py:90] Speed 265.31 samples/sec   Loss 2.0611   Epoch: 15   Global Step: 180500   Required: 1 hours
+2021-05-05 15:15:34,537 - INFO - Speed 281.02 samples/sec   Loss 2.0567   Epoch: 15   Global Step: 180600   Required: 1 hours
+[INFO 2021-05-05 15:15:34,537 utils_callbacks.py:90] Speed 281.02 samples/sec   Loss 2.0567   Epoch: 15   Global Step: 180600   Required: 1 hours
+2021-05-05 15:18:33,371 - INFO - Speed 286.30 samples/sec   Loss 2.0503   Epoch: 15   Global Step: 180700   Required: 1 hours
+[INFO 2021-05-05 15:18:33,371 utils_callbacks.py:90] Speed 286.30 samples/sec   Loss 2.0503   Epoch: 15   Global Step: 180700   Required: 1 hours
+2021-05-05 15:21:31,353 - INFO - Speed 287.67 samples/sec   Loss 2.0833   Epoch: 15   Global Step: 180800   Required: 1 hours
+[INFO 2021-05-05 15:21:31,353 utils_callbacks.py:90] Speed 287.67 samples/sec   Loss 2.0833   Epoch: 15   Global Step: 180800   Required: 1 hours
+2021-05-05 15:24:28,268 - INFO - Speed 289.41 samples/sec   Loss 2.0468   Epoch: 15   Global Step: 180900   Required: 1 hours
+[INFO 2021-05-05 15:24:28,268 utils_callbacks.py:90] Speed 289.41 samples/sec   Loss 2.0468   Epoch: 15   Global Step: 180900   Required: 1 hours
+2021-05-05 15:27:26,165 - INFO - Speed 287.81 samples/sec   Loss 2.0211   Epoch: 15   Global Step: 181000   Required: 0 hours
+[INFO 2021-05-05 15:27:26,165 utils_callbacks.py:90] Speed 287.81 samples/sec   Loss 2.0211   Epoch: 15   Global Step: 181000   Required: 0 hours
+2021-05-05 15:30:22,334 - INFO - Speed 290.64 samples/sec   Loss 2.0826   Epoch: 15   Global Step: 181100   Required: 0 hours
+[INFO 2021-05-05 15:30:22,334 utils_callbacks.py:90] Speed 290.64 samples/sec   Loss 2.0826   Epoch: 15   Global Step: 181100   Required: 0 hours
+2021-05-05 15:33:20,013 - INFO - Speed 288.16 samples/sec   Loss 2.0586   Epoch: 15   Global Step: 181200   Required: 0 hours
+[INFO 2021-05-05 15:33:20,013 utils_callbacks.py:90] Speed 288.16 samples/sec   Loss 2.0586   Epoch: 15   Global Step: 181200   Required: 0 hours
+2021-05-05 15:36:15,628 - INFO - Speed 291.55 samples/sec   Loss 2.0453   Epoch: 15   Global Step: 181300   Required: 0 hours
+[INFO 2021-05-05 15:36:15,628 utils_callbacks.py:90] Speed 291.55 samples/sec   Loss 2.0453   Epoch: 15   Global Step: 181300   Required: 0 hours
+2021-05-05 15:39:11,596 - INFO - Speed 290.96 samples/sec   Loss 2.0473   Epoch: 15   Global Step: 181400   Required: 0 hours
+[INFO 2021-05-05 15:39:11,596 utils_callbacks.py:90] Speed 290.96 samples/sec   Loss 2.0473   Epoch: 15   Global Step: 181400   Required: 0 hours
+2021-05-05 15:42:06,886 - INFO - Speed 292.09 samples/sec   Loss 2.1233   Epoch: 15   Global Step: 181500   Required: 0 hours
+[INFO 2021-05-05 15:42:06,886 utils_callbacks.py:90] Speed 292.09 samples/sec   Loss 2.1233   Epoch: 15   Global Step: 181500   Required: 0 hours
+2021-05-05 15:45:00,787 - INFO - Speed 294.42 samples/sec   Loss 2.0825   Epoch: 15   Global Step: 181600   Required: 0 hours
+[INFO 2021-05-05 15:45:00,787 utils_callbacks.py:90] Speed 294.42 samples/sec   Loss 2.0825   Epoch: 15   Global Step: 181600   Required: 0 hours
+2021-05-05 15:47:57,157 - INFO - Speed 290.30 samples/sec   Loss 2.0602   Epoch: 15   Global Step: 181700   Required: 0 hours
+[INFO 2021-05-05 15:47:57,157 utils_callbacks.py:90] Speed 290.30 samples/sec   Loss 2.0602   Epoch: 15   Global Step: 181700   Required: 0 hours
+2021-05-05 15:50:51,720 - INFO - Speed 293.31 samples/sec   Loss 2.0528   Epoch: 15   Global Step: 181800   Required: 0 hours
+[INFO 2021-05-05 15:50:51,720 utils_callbacks.py:90] Speed 293.31 samples/sec   Loss 2.0528   Epoch: 15   Global Step: 181800   Required: 0 hours
+2021-05-05 15:53:48,287 - INFO - Speed 289.98 samples/sec   Loss 2.0457   Epoch: 15   Global Step: 181900   Required: 0 hours
+[INFO 2021-05-05 15:53:48,287 utils_callbacks.py:90] Speed 289.98 samples/sec   Loss 2.0457   Epoch: 15   Global Step: 181900   Required: 0 hours
+Epoch 16: LambdaDecay set learning rate to 0.0010000000000000002.
+Epoch 16: LambdaDecay set learning rate to 0.0010000000000000002.
